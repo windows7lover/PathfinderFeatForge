@@ -1,0 +1,1274 @@
+[
+  {
+    "id": "blinded",
+    "term": "Blinded",
+    "aliases": ["blind"],
+    "category": "condition",
+    "shortDef": "Cannot see. −2 to AC, loses Dex bonus to AC, −4 to most Str- and Dex-based skill checks, 50% miss chance on attacks.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Blinded" }]
+  },
+  {
+    "id": "confused",
+    "term": "Confused",
+    "aliases": ["confusion"],
+    "category": "condition",
+    "shortDef": "Acts randomly each round: attack nearest, do nothing, babble, or attack self.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Confused" }]
+  },
+  {
+    "id": "cowering",
+    "term": "Cowering",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Frozen in fear. Loses Dex bonus to AC; opponents gain +2 to hit.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Cowering" }]
+  },
+  {
+    "id": "dazed",
+    "term": "Dazed",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Cannot take actions for 1 round. AC not affected.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Dazed" }]
+  },
+  {
+    "id": "dazzled",
+    "term": "Dazzled",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Impaired by light or visual effects. −1 to attack rolls and Perception.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Dazzled" }]
+  },
+  {
+    "id": "dead",
+    "term": "Dead",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Hit points fall to −(Con score) or lower, or killed by ability damage/drain. Soul departs body.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Dead" }]
+  },
+  {
+    "id": "deafened",
+    "term": "Deafened",
+    "aliases": ["deaf"],
+    "category": "condition",
+    "shortDef": "Cannot hear. −4 initiative, 20% spell failure for spells with verbal components.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Deafened" }]
+  },
+  {
+    "id": "dying",
+    "term": "Dying",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Unconscious and losing hit points. Must succeed on a DC 10 Con check each round or die.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Dying" }]
+  },
+  {
+    "id": "energy_drained",
+    "term": "Energy Drained",
+    "aliases": ["energy drain", "negative level"],
+    "category": "condition",
+    "shortDef": "Negative levels reduce all d20 rolls and effective level by 1 each. At 0 effective level, the creature dies.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Energy_Drained" }]
+  },
+  {
+    "id": "entangled",
+    "term": "Entangled",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Movement halved; cannot run or charge. −2 to attack rolls and Dex.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Entangled" }]
+  },
+  {
+    "id": "exhausted",
+    "term": "Exhausted",
+    "aliases": ["exhaustion"],
+    "category": "condition",
+    "shortDef": "Speed halved; −6 to Str and Dex. Rest 1 hour → becomes fatigued.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Exhausted" }]
+  },
+  {
+    "id": "fascinated",
+    "term": "Fascinated",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Stands and watches something. −4 to skill checks made as reactions. Any threat breaks the effect.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Fascinated" }]
+  },
+  {
+    "id": "fatigued",
+    "term": "Fatigued",
+    "aliases": ["fatigue"],
+    "category": "condition",
+    "shortDef": "Cannot run or charge; −2 to Str and Dex. Becoming fatigued again → exhausted.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Fatigued" }]
+  },
+  {
+    "id": "flat-footed",
+    "term": "Flat-Footed",
+    "aliases": ["flat footed", "flatfooted"],
+    "category": "condition",
+    "shortDef": "Has not yet acted; loses Dex bonus to AC and cannot make attacks of opportunity (unless has Uncanny Dodge).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Flat-footed" }]
+  },
+  {
+    "id": "frightened",
+    "term": "Frightened",
+    "aliases": ["frighten"],
+    "category": "condition",
+    "shortDef": "Flees from the source of fear if possible. −2 to attack rolls, saves, skill checks, and ability checks.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Frightened" }]
+  },
+  {
+    "id": "grappled",
+    "term": "Grappled",
+    "aliases": ["grapple"],
+    "category": "condition",
+    "shortDef": "Restrained by an opponent. −4 to Dex, −2 to attack and combat maneuver checks; cannot move.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Grappled" }]
+  },
+  {
+    "id": "helpless",
+    "term": "Helpless",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Paralyzed, held, bound, sleeping, unconscious, or otherwise unable to act. Dex treated as 0; attackers gain +4 to hit.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Helpless" }]
+  },
+  {
+    "id": "incorporeal",
+    "term": "Incorporeal",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Has no physical body. Immune to non-magical attacks; 50% chance to ignore magic. Can pass through solid objects.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Incorporeal" }]
+  },
+  {
+    "id": "invisible",
+    "term": "Invisible",
+    "aliases": ["invisibility"],
+    "category": "condition",
+    "shortDef": "Cannot be seen normally. +2 to attack, denies Dex bonus to AC. Attackers have a 50% miss chance.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Invisible" }]
+  },
+  {
+    "id": "nauseated",
+    "term": "Nauseated",
+    "aliases": ["nausea", "nauseous"],
+    "category": "condition",
+    "shortDef": "Can only take a single move action per round; cannot attack, cast spells, concentrate, or do anything else.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Nauseated" }]
+  },
+  {
+    "id": "panicked",
+    "term": "Panicked",
+    "aliases": ["panic"],
+    "category": "condition",
+    "shortDef": "Runs from source of fear; −2 to saves and checks. Drops held items randomly. Stronger version of frightened.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Panicked" }]
+  },
+  {
+    "id": "paralyzed",
+    "term": "Paralyzed",
+    "aliases": ["paralysis", "paralyze"],
+    "category": "condition",
+    "shortDef": "Frozen in place; Str and Dex treated as 0. Cannot act; attackers gain +4 bonus and can deliver coup de grace.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Paralyzed" }]
+  },
+  {
+    "id": "petrified",
+    "term": "Petrified",
+    "aliases": ["petrify", "stone"],
+    "category": "condition",
+    "shortDef": "Turned to stone; considered unconscious. Hardness 8 and natural AC +6.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Petrified" }]
+  },
+  {
+    "id": "pinned",
+    "term": "Pinned",
+    "aliases": ["pin"],
+    "category": "condition",
+    "shortDef": "Held immobile while grappling. −4 Dex, loses Dex to AC, can speak but not cast spells with somatic components.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Pinned" }]
+  },
+  {
+    "id": "prone",
+    "term": "Prone",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Lying on the ground. −4 to melee attacks; +4 AC against ranged, −4 AC against melee.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Prone" }]
+  },
+  {
+    "id": "shaken",
+    "term": "Shaken",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Mild fear. −2 to attack rolls, saving throws, skill checks, and ability checks.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Shaken" }]
+  },
+  {
+    "id": "sickened",
+    "term": "Sickened",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Physically ill. −2 to attack rolls, weapon damage, saving throws, skill checks, and ability checks.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Sickened" }]
+  },
+  {
+    "id": "sleeping",
+    "term": "Sleeping",
+    "aliases": ["sleep", "asleep"],
+    "category": "condition",
+    "shortDef": "Unconscious; can be awoken by noise or damage. Treated as helpless.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Sleeping" }]
+  },
+  {
+    "id": "staggered",
+    "term": "Staggered",
+    "aliases": ["stagger"],
+    "category": "condition",
+    "shortDef": "Can only take a single move or standard action each round (not both, no full-round actions).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Staggered" }]
+  },
+  {
+    "id": "stunned",
+    "term": "Stunned",
+    "aliases": ["stun"],
+    "category": "condition",
+    "shortDef": "Drops everything held, cannot take actions, −2 to AC, loses Dex bonus to AC.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Stunned" }]
+  },
+  {
+    "id": "unconscious",
+    "term": "Unconscious",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Knocked out. Treated as helpless. Unaware of surroundings.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Unconscious" }]
+  },
+  {
+    "id": "bleeding",
+    "term": "Bleeding",
+    "aliases": ["bleed"],
+    "category": "condition",
+    "shortDef": "Loses hit points each round equal to the bleed value. Healed by any cure effect or a DC 15 Heal check.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Bleeding" }]
+  },
+  {
+    "id": "broken",
+    "term": "Broken",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "An item with this condition is damaged and functions at half effectiveness. Weapons deal −2 damage and have a 50% chance to misfire (firearms).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Broken" }]
+  },
+  {
+    "id": "cursed",
+    "term": "Cursed",
+    "aliases": ["curse"],
+    "category": "condition",
+    "shortDef": "Affected by a magical curse. Penalties vary by curse; removal typically requires remove curse or break enchantment.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Cursed" }]
+  },
+  {
+    "id": "diseased",
+    "term": "Diseased",
+    "aliases": ["disease"],
+    "category": "condition",
+    "shortDef": "Suffering from a disease. Must succeed at periodic Fortitude saves or suffer ability damage/drain until cured.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Diseased" }]
+  },
+  {
+    "id": "poisoned",
+    "term": "Poisoned",
+    "aliases": ["poison"],
+    "category": "condition",
+    "shortDef": "Affected by a poison. Must make Fortitude saves at intervals to avoid ability damage or other effects until cured or the poison runs its course.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Poisoned" }]
+  },
+  {
+    "id": "sightless",
+    "term": "Sightless",
+    "aliases": [],
+    "category": "condition",
+    "shortDef": "Permanently lacks functional eyes, not merely blinded by an effect. Same mechanical penalties as blinded.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Blinded" }]
+  },
+  {
+    "id": "attack_of_opportunity",
+    "term": "Attack of Opportunity",
+    "aliases": ["AoO", "attacks of opportunity"],
+    "category": "combat",
+    "shortDef": "A free melee attack provoked when a foe in your threatened area takes a distracting action (casting, moving out, etc.).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Attacks-of-Opportunity" }]
+  },
+  {
+    "id": "base_attack_bonus",
+    "term": "Base Attack Bonus",
+    "aliases": ["BAB", "base attack"],
+    "category": "combat",
+    "shortDef": "An attack bonus derived from class and level. Added to attack rolls; governs iterative attacks and combat maneuver checks.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Base_Attack_Bonus" }]
+  },
+  {
+    "id": "bull_rush",
+    "term": "Bull Rush",
+    "aliases": [],
+    "category": "combat",
+    "shortDef": "Combat maneuver to push an opponent straight back without dealing damage.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Bull-Rush" }]
+  },
+  {
+    "id": "charge",
+    "term": "Charge",
+    "aliases": ["charging"],
+    "category": "combat",
+    "shortDef": "Move twice your speed in a straight line and make one melee attack at +2 to hit; −2 AC until next turn.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Charge" }]
+  },
+  {
+    "id": "combat_maneuver_bonus",
+    "term": "Combat Maneuver Bonus",
+    "aliases": ["CMB"],
+    "category": "combat",
+    "shortDef": "Bonus for special combat maneuvers. CMB = BAB + Str modifier + special size modifier.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Combat-Maneuvers" }]
+  },
+  {
+    "id": "combat_maneuver_defense",
+    "term": "Combat Maneuver Defense",
+    "aliases": ["CMD"],
+    "category": "combat",
+    "shortDef": "Defense against special combat maneuvers. CMD = 10 + BAB + Str + Dex + special size modifier.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Combat-Maneuvers" }]
+  },
+  {
+    "id": "coup_de_grace",
+    "term": "Coup de Grace",
+    "aliases": ["CDG"],
+    "category": "combat",
+    "shortDef": "A full-round action to deliver a killing blow to a helpless creature. On a hit, it deals damage and the target must save or die.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Coup-de-Grace" }]
+  },
+  {
+    "id": "critical_hit",
+    "term": "Critical Hit",
+    "aliases": ["crit", "critical", "critical threat"],
+    "category": "combat",
+    "shortDef": "A confirmed attack in the threat range of a weapon multiplies damage by the weapon's critical multiplier.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Critical-Hits" }]
+  },
+  {
+    "id": "disarm",
+    "term": "Disarm",
+    "aliases": ["disarming"],
+    "category": "combat",
+    "shortDef": "Combat maneuver to knock a weapon from a foe's hand. Uses CMB vs. CMD.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Disarm" }]
+  },
+  {
+    "id": "feint",
+    "term": "Feint",
+    "aliases": ["feinting"],
+    "category": "combat",
+    "shortDef": "Bluff check (DC 10 + BAB + Wis mod) as a standard action to deny a foe their Dex bonus to AC until your next attack.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Feint" }]
+  },
+  {
+    "id": "flanking",
+    "term": "Flanking",
+    "aliases": ["flank"],
+    "category": "combat",
+    "shortDef": "Two allies threatening an opponent from opposite sides each gain +2 to attack rolls against it.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Flanking" }]
+  },
+  {
+    "id": "full_attack",
+    "term": "Full Attack",
+    "aliases": ["full-attack", "full round attack"],
+    "category": "combat",
+    "shortDef": "A full-round action allowing all iterative attacks from BAB (at −5 per attack beyond the first).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Full-Attack" }]
+  },
+  {
+    "id": "overrun",
+    "term": "Overrun",
+    "aliases": [],
+    "category": "combat",
+    "shortDef": "Combat maneuver to move through an opponent's square. Success moves you through; failure stops you.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Overrun" }]
+  },
+  {
+    "id": "sneak_attack",
+    "term": "Sneak Attack",
+    "aliases": ["sneak"],
+    "category": "combat",
+    "shortDef": "Rogue ability granting extra damage dice when attacking a flat-footed or flanked target.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/classes/core-classes/rogue/#TOC-Sneak-Attack" }]
+  },
+  {
+    "id": "sunder",
+    "term": "Sunder",
+    "aliases": ["sundering"],
+    "category": "combat",
+    "shortDef": "Combat maneuver to damage or destroy a held or worn item on an opponent.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Sunder" }]
+  },
+  {
+    "id": "total_defense",
+    "term": "Total Defense",
+    "aliases": [],
+    "category": "combat",
+    "shortDef": "A standard action that grants +4 dodge bonus to AC for one round; you cannot attack.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Total-Defense" }]
+  },
+  {
+    "id": "trip",
+    "term": "Trip",
+    "aliases": ["tripping"],
+    "category": "combat",
+    "shortDef": "Combat maneuver to knock an opponent prone. If failed by 10+, you fall prone instead.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Trip" }]
+  },
+  {
+    "id": "two_weapon_fighting",
+    "term": "Two-Weapon Fighting",
+    "aliases": ["TWF", "two weapon"],
+    "category": "combat",
+    "shortDef": "Fighting with a weapon in each hand imposes attack penalties (−6/−10 reduced by feats and light offhand).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Two-Weapon-Fighting" }]
+  },
+  {
+    "id": "aid_another",
+    "term": "Aid Another",
+    "aliases": [],
+    "category": "combat",
+    "shortDef": "A standard action; make a DC 10 attack roll to grant an ally +2 to their next attack roll or AC.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Aid-Another" }]
+  },
+  {
+    "id": "concealment",
+    "term": "Concealment",
+    "aliases": ["concealed"],
+    "category": "combat",
+    "shortDef": "Partial or total obscurement (fog, darkness, etc.) grants the target a miss chance: 20% for partial, 50% for total concealment.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Concealment" }]
+  },
+  {
+    "id": "cover",
+    "term": "Cover",
+    "aliases": ["taking cover"],
+    "category": "combat",
+    "shortDef": "Physical obstruction between attacker and target. Grants +4 to AC and +2 to Reflex saves; soft cover only +4 AC.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Cover" }]
+  },
+  {
+    "id": "dirty_trick",
+    "term": "Dirty Trick",
+    "aliases": [],
+    "category": "combat",
+    "shortDef": "Combat maneuver to inflict a condition (blinded, entangled, sickened, etc.) on an opponent for 1 round.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Dirty-Trick" }]
+  },
+  {
+    "id": "drag",
+    "term": "Drag",
+    "aliases": [],
+    "category": "combat",
+    "shortDef": "Combat maneuver to pull a creature directly toward you; creature moves into the space between you.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Drag" }]
+  },
+  {
+    "id": "fighting_defensively",
+    "term": "Fighting Defensively",
+    "aliases": [],
+    "category": "combat",
+    "shortDef": "Take −4 to attack rolls to gain +2 dodge bonus to AC for the round (improved by Combat Expertise).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Fighting-Defensively" }]
+  },
+  {
+    "id": "reposition",
+    "term": "Reposition",
+    "aliases": [],
+    "category": "combat",
+    "shortDef": "Combat maneuver to move an opponent to a different square within your reach without dealing damage.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Reposition" }]
+  },
+  {
+    "id": "steal",
+    "term": "Steal",
+    "aliases": [],
+    "category": "combat",
+    "shortDef": "Combat maneuver to take an unattended or loosely held item from an opponent using CMB vs. CMD.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Steal" }]
+  },
+  {
+    "id": "withdraw",
+    "term": "Withdraw",
+    "aliases": [],
+    "category": "combat",
+    "shortDef": "A full-round action to move up to double speed without provoking an attack of opportunity from the first square left.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Withdraw" }]
+  },
+  {
+    "id": "ranged_touch_attack",
+    "term": "Ranged Touch Attack",
+    "aliases": ["ranged touch"],
+    "category": "combat",
+    "shortDef": "A touch attack made at range. Ignores armor and natural armor bonuses but is subject to range penalties and cover.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Touch-Attacks" }]
+  },
+  {
+    "id": "threatened_area",
+    "term": "Threatened Area",
+    "aliases": ["threaten", "threatens", "threatened square"],
+    "category": "combat",
+    "shortDef": "The squares a creature can make attacks of opportunity into — typically all squares within reach.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Threatened-Squares" }]
+  },
+  {
+    "id": "reach",
+    "term": "Reach",
+    "aliases": ["reach weapon"],
+    "category": "combat",
+    "shortDef": "The distance at which a creature (or weapon) can threaten and attack. Most Medium creatures have 5-ft. reach; reach weapons extend to 10 ft.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Reach-and-Threatened-Area" }]
+  },
+  {
+    "id": "grapple_maneuver",
+    "term": "Grapple (Maneuver)",
+    "aliases": ["grappling"],
+    "category": "combat",
+    "shortDef": "Combat maneuver to seize and restrain an opponent. Success inflicts the grappled condition on both parties; continued success can pin the target.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Grapple" }]
+  },
+  {
+    "id": "standard_action",
+    "term": "Standard Action",
+    "aliases": [],
+    "category": "action",
+    "shortDef": "The most common action type. Includes most attacks, casting a spell, and many special abilities. One per round.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Standard-Actions" }]
+  },
+  {
+    "id": "move_action",
+    "term": "Move Action",
+    "aliases": [],
+    "category": "action",
+    "shortDef": "An action that lets you move up to your speed or perform a comparably quick task (draw weapon, pick up item). One per round.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Move-Actions" }]
+  },
+  {
+    "id": "full_round_action",
+    "term": "Full-Round Action",
+    "aliases": ["full round action"],
+    "category": "action",
+    "shortDef": "Consumes both your standard and move actions. Examples: full attack, run, casting a 1-round spell.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Full-Round-Actions" }]
+  },
+  {
+    "id": "swift_action",
+    "term": "Swift Action",
+    "aliases": [],
+    "category": "action",
+    "shortDef": "A very fast action consuming very little time. Only one swift action per turn; used for quickened spells and certain class abilities.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Swift-Actions" }]
+  },
+  {
+    "id": "immediate_action",
+    "term": "Immediate Action",
+    "aliases": [],
+    "category": "action",
+    "shortDef": "Like a swift action but can be taken even outside your turn. Using one means you lose your swift action on your next turn.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Immediate-Actions" }]
+  },
+  {
+    "id": "free_action",
+    "term": "Free Action",
+    "aliases": [],
+    "category": "action",
+    "shortDef": "Negligibly quick actions (drop an item, speak a sentence). Several per round; GM may set reasonable limits.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Free-Actions" }]
+  },
+  {
+    "id": "readied_action",
+    "term": "Readied Action",
+    "aliases": ["ready", "readying"],
+    "category": "action",
+    "shortDef": "Use a standard action to declare a trigger; when triggered, you act before or after that event (your choice at readying).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Ready" }]
+  },
+  {
+    "id": "delayed_action",
+    "term": "Delayed Action",
+    "aliases": ["delay", "delaying"],
+    "category": "action",
+    "shortDef": "Voluntarily act later in the round. Your initiative count changes to the point you choose to act.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Delay" }]
+  },
+  {
+    "id": "5foot_step",
+    "term": "5-Foot Step",
+    "aliases": ["5ft step", "five-foot step"],
+    "category": "action",
+    "shortDef": "Move exactly 5 ft. without provoking attacks of opportunity. Can only be taken when you have not moved this turn.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-5-Foot-Step" }]
+  },
+  {
+    "id": "spell_school_abjuration",
+    "term": "Abjuration",
+    "aliases": ["abjuration school"],
+    "category": "magic",
+    "shortDef": "Spell school specializing in protective and warding magic: shields, counterspells, banishment, and dispelling effects.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Abjuration" }]
+  },
+  {
+    "id": "spell_school_conjuration",
+    "term": "Conjuration",
+    "aliases": ["conjuration school"],
+    "category": "magic",
+    "shortDef": "Spell school that brings creatures, objects, or materials from elsewhere — summons, teleportation, and healing fall here.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Conjuration" }]
+  },
+  {
+    "id": "spell_school_divination",
+    "term": "Divination",
+    "aliases": ["divination school"],
+    "category": "magic",
+    "shortDef": "Spell school dedicated to revealing information: scrying, detection, true seeing, and knowledge-granting effects.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Divination" }]
+  },
+  {
+    "id": "spell_school_enchantment",
+    "term": "Enchantment",
+    "aliases": ["enchantment school"],
+    "category": "magic",
+    "shortDef": "Spell school that affects minds and emotions. Includes charm and compulsion effects; most require the target to be a living creature.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Enchantment" }]
+  },
+  {
+    "id": "spell_school_evocation",
+    "term": "Evocation",
+    "aliases": ["evocation school"],
+    "category": "magic",
+    "shortDef": "Spell school that manipulates energy to produce destructive or impressive effects — fireballs, lightning bolts, and force effects.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Evocation" }]
+  },
+  {
+    "id": "spell_school_illusion",
+    "term": "Illusion",
+    "aliases": ["illusion school"],
+    "category": "magic",
+    "shortDef": "Spell school creating false sensory impressions. Subtypes include figments, glamers, phantasms, patterns, and shadows.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Illusion" }]
+  },
+  {
+    "id": "spell_school_necromancy",
+    "term": "Necromancy",
+    "aliases": ["necromancy school"],
+    "category": "magic",
+    "shortDef": "Spell school manipulating life force and undeath. Includes energy drain, death effects, and animating corpses.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Necromancy" }]
+  },
+  {
+    "id": "spell_school_transmutation",
+    "term": "Transmutation",
+    "aliases": ["transmutation school"],
+    "category": "magic",
+    "shortDef": "Spell school that physically alters creatures, objects, or conditions. Includes polymorph, enhancement, and movement effects.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Transmutation" }]
+  },
+  {
+    "id": "spell_school_universal",
+    "term": "Universal",
+    "aliases": ["universal school"],
+    "category": "magic",
+    "shortDef": "Spells not belonging to any school; no specialist can forbid them and no specialist gains bonuses against them.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Universal" }]
+  },
+  {
+    "id": "energy_type_acid",
+    "term": "Acid",
+    "aliases": ["acid damage"],
+    "category": "magic",
+    "shortDef": "Energy type dealing corrosive damage. Not blocked by fire or cold resistance; no common immunity except from certain outsiders.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Energy-Types" }]
+  },
+  {
+    "id": "energy_type_cold",
+    "term": "Cold",
+    "aliases": ["cold damage"],
+    "category": "magic",
+    "shortDef": "Energy type dealing freezing damage. Cold resistance or immunity negates or reduces it.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Energy-Types" }]
+  },
+  {
+    "id": "energy_type_electricity",
+    "term": "Electricity",
+    "aliases": ["electricity damage", "lightning damage", "electric"],
+    "category": "magic",
+    "shortDef": "Energy type dealing lightning damage. Electricity resistance or immunity negates or reduces it.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Energy-Types" }]
+  },
+  {
+    "id": "energy_type_fire",
+    "term": "Fire",
+    "aliases": ["fire damage"],
+    "category": "magic",
+    "shortDef": "Energy type dealing burning damage. Fire resistance or immunity negates or reduces it; vulnerability doubles it.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Energy-Types" }]
+  },
+  {
+    "id": "energy_type_sonic",
+    "term": "Sonic",
+    "aliases": ["sonic damage"],
+    "category": "magic",
+    "shortDef": "Energy type dealing damage via sound waves. Deafened creatures are not immune; rare resistance exists on some creatures.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Energy-Types" }]
+  },
+  {
+    "id": "spell_like_ability",
+    "term": "Spell-Like Ability",
+    "aliases": ["SLA", "spell-like abilities"],
+    "category": "magic",
+    "shortDef": "A magical ability that works like a spell but requires no components. Provokes AoOs, subject to SR, and requires concentration checks.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/spell-like-abilities-sla/" }]
+  },
+  {
+    "id": "supernatural_ability",
+    "term": "Supernatural Ability",
+    "aliases": ["supernatural", "Su"],
+    "category": "magic",
+    "shortDef": "A magical ability that does not provoke AoOs, is not subject to SR, and cannot be counterspelled. It can be suppressed in antimagic.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/supernatural-abilities-su/" }]
+  },
+  {
+    "id": "extraordinary_ability",
+    "term": "Extraordinary Ability",
+    "aliases": ["extraordinary", "Ex"],
+    "category": "magic",
+    "shortDef": "A non-magical special ability. Works in antimagic, cannot be dispelled, and is not subject to SR.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/extraordinary-abilities-ex/" }]
+  },
+  {
+    "id": "dispel",
+    "term": "Dispel",
+    "aliases": ["dispelling", "dispel magic"],
+    "category": "magic",
+    "shortDef": "Remove or suppress an ongoing spell or magical effect. Dispel check = d20 + caster level vs. DC 11 + effect's caster level.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-magic/" }]
+  },
+  {
+    "id": "counterspell",
+    "term": "Counterspell",
+    "aliases": ["counter"],
+    "category": "magic",
+    "shortDef": "Interrupt an opponent's spellcasting with a readied action. Must cast the same spell or a counterspell substitute (e.g., dispel magic).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Counterspells" }]
+  },
+  {
+    "id": "metamagic",
+    "term": "Metamagic",
+    "aliases": ["metamagic feat"],
+    "category": "magic",
+    "shortDef": "Feats that modify a spell's power at the cost of increasing its effective spell level. Examples: Empower, Maximize, Quicken, Silent.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/feats/metamagic-feats/" }]
+  },
+  {
+    "id": "save_dc",
+    "term": "Save DC",
+    "aliases": ["spell DC", "difficulty class"],
+    "category": "magic",
+    "shortDef": "The number a target must roll (d20 + save bonus) to resist a spell or effect. DC = 10 + spell level + casting stat modifier.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Saving-Throw" }]
+  },
+  {
+    "id": "verbal_component",
+    "term": "Verbal Component",
+    "aliases": ["verbal", "V component"],
+    "category": "magic",
+    "shortDef": "A spell requiring specific spoken words. Cannot be cast while deafened (20% failure) or silenced.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Components" }]
+  },
+  {
+    "id": "somatic_component",
+    "term": "Somatic Component",
+    "aliases": ["somatic", "S component"],
+    "category": "magic",
+    "shortDef": "A spell requiring specific hand gestures. Requires a free hand; wearing armor may cause arcane spell failure.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Components" }]
+  },
+  {
+    "id": "material_component",
+    "term": "Material Component",
+    "aliases": ["material", "M component"],
+    "category": "magic",
+    "shortDef": "A physical item consumed or used in spellcasting. Usually trivially cheap; stored in a spell component pouch.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Components" }]
+  },
+  {
+    "id": "focus_component",
+    "term": "Focus Component",
+    "aliases": ["focus", "F component"],
+    "category": "magic",
+    "shortDef": "A reusable physical object used in spellcasting; not consumed. Different from a material component.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Components" }]
+  },
+  {
+    "id": "spell_descriptor",
+    "term": "Spell Descriptor",
+    "aliases": ["descriptor"],
+    "category": "magic",
+    "shortDef": "A tag on a spell (fear, mind-affecting, light, fire, etc.) that indicates additional properties used by game mechanics and creature immunities.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Spell-Descriptors" }]
+  },
+  {
+    "id": "arcane_magic",
+    "term": "Arcane Magic",
+    "aliases": ["arcane spells", "arcane"],
+    "category": "magic",
+    "shortDef": "Spells cast by bards, sorcerers, wizards, and other arcane classes. Subject to arcane spell failure from armor.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Arcane-Spells" }]
+  },
+  {
+    "id": "divine_magic",
+    "term": "Divine Magic",
+    "aliases": ["divine spells", "divine"],
+    "category": "magic",
+    "shortDef": "Spells drawn from a deity or natural power, cast by clerics, druids, paladins, and rangers. Not subject to arcane spell failure.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Divine-Spells" }]
+  },
+  {
+    "id": "psychic_magic",
+    "term": "Psychic Magic",
+    "aliases": ["psychic spells"],
+    "category": "magic",
+    "shortDef": "A third type of magic used by psychics and related classes. Uses thought and emotion components instead of verbal/somatic.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/occult-adventures/occult-rules/psychic-magic/" }]
+  },
+  {
+    "id": "spell_level",
+    "term": "Spell Level",
+    "aliases": [],
+    "category": "magic",
+    "shortDef": "A number from 0 to 9 indicating a spell's power. Determines slot usage, save DCs, and whether a caster can access it.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Spell-Levels" }]
+  },
+  {
+    "id": "spell_slot",
+    "term": "Spell Slot",
+    "aliases": ["slots", "spell slots"],
+    "category": "magic",
+    "shortDef": "A prepared caster's daily resource for casting spells; each spell prepared or spell spontaneously cast expends one slot of the appropriate level.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Spell-Slots" }]
+  },
+  {
+    "id": "cantrip",
+    "term": "Cantrip",
+    "aliases": ["cantrips", "0-level spell"],
+    "category": "magic",
+    "shortDef": "0-level spells. Arcane casters (wizards/sorcerers) can cast them unlimited times; some divine casters call them orisons.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Cantrips-and-Orisons" }]
+  },
+  {
+    "id": "orison",
+    "term": "Orison",
+    "aliases": ["orisons"],
+    "category": "magic",
+    "shortDef": "A 0-level divine spell. Clerics, druids, and similar casters prepare orisons and can cast them at will.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Cantrips-and-Orisons" }]
+  },
+  {
+    "id": "damage_reduction",
+    "term": "Damage Reduction",
+    "aliases": ["DR"],
+    "category": "defense",
+    "shortDef": "Reduces damage from physical attacks by a set number, bypassed by specified materials or alignments (e.g., DR 5/silver).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Damage-Reduction" }]
+  },
+  {
+    "id": "energy_resistance",
+    "term": "Energy Resistance",
+    "aliases": ["resist energy", "resistance"],
+    "category": "defense",
+    "shortDef": "Reduces damage of a specific energy type (fire, cold, etc.) by a set amount per attack.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Energy-Resistance" }]
+  },
+  {
+    "id": "fast_healing",
+    "term": "Fast Healing",
+    "aliases": [],
+    "category": "defense",
+    "shortDef": "Regains a set number of hit points at the start of each turn automatically.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Fast-Healing" }]
+  },
+  {
+    "id": "hardness",
+    "term": "Hardness",
+    "aliases": [],
+    "category": "defense",
+    "shortDef": "An object's resistance to damage; each attack's damage is reduced by the hardness value.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/equipment/damaging-objects/#TOC-Hardness" }]
+  },
+  {
+    "id": "regeneration",
+    "term": "Regeneration",
+    "aliases": ["regen"],
+    "category": "defense",
+    "shortDef": "Like fast healing, but lethal damage becomes nonlethal. Damage from specified sources (e.g., fire) still kills.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Regeneration" }]
+  },
+  {
+    "id": "immunity",
+    "term": "Immunity",
+    "aliases": ["immune"],
+    "category": "defense",
+    "shortDef": "Complete protection against a specific damage type, condition, or effect. No damage or effect is taken regardless of magnitude.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Immunity" }]
+  },
+  {
+    "id": "vulnerability",
+    "term": "Vulnerability",
+    "aliases": ["vulnerable"],
+    "category": "defense",
+    "shortDef": "A weakness to a specific damage type; the creature takes 150% damage (half again as much) from that source.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Vulnerability-to-Energy" }]
+  },
+  {
+    "id": "darkvision",
+    "term": "Darkvision",
+    "aliases": ["dark vision"],
+    "category": "defense",
+    "shortDef": "Can see in total darkness out to a specified range, but only in black and white.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Darkvision" }]
+  },
+  {
+    "id": "low_light_vision",
+    "term": "Low-Light Vision",
+    "aliases": ["low light vision"],
+    "category": "defense",
+    "shortDef": "Can see twice as far as a human in dim light. Elves, gnomes, and many other races share this ability.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Low-Light-Vision" }]
+  },
+  {
+    "id": "blindsense",
+    "term": "Blindsense",
+    "aliases": [],
+    "category": "defense",
+    "shortDef": "Detects creatures within range without sight; the creature is still aware of a foe's presence but does not ignore concealment.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Blindsense" }]
+  },
+  {
+    "id": "blindsight",
+    "term": "Blindsight",
+    "aliases": [],
+    "category": "defense",
+    "shortDef": "Perceives the environment precisely without relying on vision, negating concealment and miss chances up to its listed range.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Blindsight" }]
+  },
+  {
+    "id": "scent",
+    "term": "Scent",
+    "aliases": [],
+    "category": "defense",
+    "shortDef": "Detects creatures by smell up to 30 ft. (60 ft. downwind, 15 ft. upwind). Can pinpoint a foe within 5 ft.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Scent" }]
+  },
+  {
+    "id": "tremorsense",
+    "term": "Tremorsense",
+    "aliases": [],
+    "category": "defense",
+    "shortDef": "Automatically senses creatures touching the same surface (ground, water) within the listed range.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Tremorsense" }]
+  },
+  {
+    "id": "spell_resistance",
+    "term": "Spell Resistance",
+    "aliases": ["SR"],
+    "category": "defense",
+    "shortDef": "A creature's ability to shrug off spells. Caster must beat SR with a d20 + caster level roll for a spell to affect it.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Spell-Resistance" }]
+  },
+  {
+    "id": "miss_chance",
+    "term": "Miss Chance",
+    "aliases": [],
+    "category": "defense",
+    "shortDef": "A percentage chance (rolled on d100) that a physically valid attack still misses — granted by concealment, blur, displacement, etc.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Concealment" }]
+  },
+  {
+    "id": "ability_damage",
+    "term": "Ability Damage",
+    "aliases": [],
+    "category": "general",
+    "shortDef": "Temporary loss of ability score points. Healed by rest (1 point/day) or magic.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/ability-scores/#TOC-Ability-Damage-Penalty-and-Drain" }]
+  },
+  {
+    "id": "ability_drain",
+    "term": "Ability Drain",
+    "aliases": [],
+    "category": "general",
+    "shortDef": "Permanent loss of ability score points. Requires restoration magic to recover.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/ability-scores/#TOC-Ability-Damage-Penalty-and-Drain" }]
+  },
+  {
+    "id": "arcane_spell_failure",
+    "term": "Arcane Spell Failure",
+    "aliases": ["ASF", "spell failure"],
+    "category": "general",
+    "shortDef": "Percentage chance an arcane spell fails when the caster wears armor that interferes with somatic components.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Arcane-Spells" }]
+  },
+  {
+    "id": "caster_level",
+    "term": "Caster Level",
+    "aliases": ["CL"],
+    "category": "general",
+    "shortDef": "A measure of magical power, usually equal to class level. Affects spell range, duration, and damage caps.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Caster-Level" }]
+  },
+  {
+    "id": "concentration",
+    "term": "Concentration",
+    "aliases": ["concentrate"],
+    "category": "general",
+    "shortDef": "A check to cast or maintain a spell while distracted. DC varies by distraction type; key ability modifier applies.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/magic/#TOC-Concentration" }]
+  },
+  {
+    "id": "diplomacy",
+    "term": "Diplomacy",
+    "aliases": [],
+    "category": "general",
+    "shortDef": "Cha-based skill used to change attitudes and request favors. Attitude shifts take 1 minute of conversation.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/skills/diplomacy/" }]
+  },
+  {
+    "id": "fortitude_save",
+    "term": "Fortitude Save",
+    "aliases": ["Fort save", "Fortitude"],
+    "category": "general",
+    "shortDef": "Saving throw based on Constitution. Resists physical threats: poison, disease, death effects.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Fortitude" }]
+  },
+  {
+    "id": "hit_dice",
+    "term": "Hit Dice",
+    "aliases": ["HD", "hit die"],
+    "category": "general",
+    "shortDef": "Dice used to determine hit points gained per level. Also used to measure creature power for spell effects.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Hit_Dice" }]
+  },
+  {
+    "id": "initiative",
+    "term": "Initiative",
+    "aliases": [],
+    "category": "general",
+    "shortDef": "A d20 + Dex modifier roll at the start of combat that determines the order of action.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Initiative" }]
+  },
+  {
+    "id": "iterative_attack",
+    "term": "Iterative Attack",
+    "aliases": ["iterative attacks", "multiple attacks"],
+    "category": "general",
+    "shortDef": "Additional attacks granted at BAB +6, +11, and +16, each made at −5 from the previous.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Full-Attack" }]
+  },
+  {
+    "id": "reflex_save",
+    "term": "Reflex Save",
+    "aliases": ["Ref save", "Reflex"],
+    "category": "general",
+    "shortDef": "Saving throw based on Dexterity. Resists area effects and dodgeable dangers.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Reflex" }]
+  },
+  {
+    "id": "saving_throw",
+    "term": "Saving Throw",
+    "aliases": ["save", "saves"],
+    "category": "general",
+    "shortDef": "A die roll to resist or reduce a harmful effect. Three types: Fortitude (Con), Reflex (Dex), Will (Wis).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Saving-Throws" }]
+  },
+  {
+    "id": "touch_attack",
+    "term": "Touch Attack",
+    "aliases": ["touch"],
+    "category": "general",
+    "shortDef": "An attack that only requires touching the target; ignores natural and armor bonuses to AC (not Dex or shield).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Touch-Attacks" }]
+  },
+  {
+    "id": "will_save",
+    "term": "Will Save",
+    "aliases": ["Will"],
+    "category": "general",
+    "shortDef": "Saving throw based on Wisdom. Resists mental and mind-affecting effects, fear, compulsion, and illusions.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Will" }]
+  },
+  {
+    "id": "alignment",
+    "term": "Alignment",
+    "aliases": [],
+    "category": "general",
+    "shortDef": "A descriptor of a creature's moral and ethical disposition on two axes: Good/Neutral/Evil and Lawful/Neutral/Chaotic.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Alignment" }]
+  },
+  {
+    "id": "challenge_rating",
+    "term": "Challenge Rating",
+    "aliases": ["CR"],
+    "category": "general",
+    "shortDef": "A number indicating how difficult a monster is. A party of four at that level should spend about 25% of daily resources defeating it.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/creating-a-monster/#TOC-Challenge-Rating-CR-" }]
+  },
+  {
+    "id": "size_category",
+    "term": "Size Category",
+    "aliases": ["size", "sizes"],
+    "category": "general",
+    "shortDef": "Creatures range from Fine to Colossal (Fine, Diminutive, Tiny, Small, Medium, Large, Huge, Gargantuan, Colossal). Size affects attack, AC, CMB, CMD, and stealth.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Size" }]
+  },
+  {
+    "id": "natural_armor",
+    "term": "Natural Armor",
+    "aliases": ["natural armor bonus"],
+    "category": "general",
+    "shortDef": "An AC bonus representing tough hide or scales. Stacks with armor but not with other natural armor bonuses.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Natural_Armor_Bonus" }]
+  },
+  {
+    "id": "nonlethal_damage",
+    "term": "Nonlethal Damage",
+    "aliases": ["subdual damage", "nonlethal"],
+    "category": "general",
+    "shortDef": "Damage intended to knock out rather than kill. When nonlethal equals or exceeds current HP, the creature is staggered, then unconscious.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Nonlethal-Damage" }]
+  },
+  {
+    "id": "stable",
+    "term": "Stable",
+    "aliases": ["stabilize", "stabilized"],
+    "category": "general",
+    "shortDef": "A dying creature that has stopped losing hit points. A stable creature is still unconscious but no longer makes Con checks.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/conditions/#Stable" }]
+  },
+  {
+    "id": "turn_undead",
+    "term": "Turn Undead",
+    "aliases": ["channel energy"],
+    "category": "general",
+    "shortDef": "The ability (via Channel Energy for clerics) to damage or destroy undead in a radius. Positive energy harms undead; negative energy harms living creatures.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/classes/core-classes/cleric/#TOC-Channel-Energy" }]
+  },
+  {
+    "id": "action_economy",
+    "term": "Action Economy",
+    "aliases": [],
+    "category": "general",
+    "shortDef": "The system governing how many and what kinds of actions a creature can take in a round (standard, move, swift, free, immediate).",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Actions-in-Combat" }]
+  },
+  {
+    "id": "bonus_type",
+    "term": "Bonus Type",
+    "aliases": [],
+    "category": "general",
+    "shortDef": "Bonuses of the same type (e.g., enhancement, morale, luck) do not stack — only the highest applies. Dodge bonuses and untyped bonuses are exceptions.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus" }]
+  },
+  {
+    "id": "armor_class",
+    "term": "Armor Class",
+    "aliases": ["AC"],
+    "category": "general",
+    "shortDef": "The target number an attacker must meet or exceed to hit a creature. AC = 10 + armor + shield + Dex + size + other bonuses.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Armor_Class" }]
+  },
+  {
+    "id": "hit_points",
+    "term": "Hit Points",
+    "aliases": ["HP", "hp"],
+    "category": "general",
+    "shortDef": "A measure of a creature's health. Damage reduces HP; at 0 the creature is disabled; below 0 they are dying; at −Con they die.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Hit_Points" }]
+  },
+  {
+    "id": "experience_points",
+    "term": "Experience Points",
+    "aliases": ["XP"],
+    "category": "general",
+    "shortDef": "Points awarded for overcoming challenges. Accumulating XP leads to gaining levels according to the campaign's advancement track.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Experience_Points" }]
+  },
+  {
+    "id": "threatened_square",
+    "term": "Threatened Square",
+    "aliases": [],
+    "category": "general",
+    "shortDef": "A square that a creature with a melee weapon can immediately attack. Enemies moving out of these squares provoke attacks of opportunity.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/gamemastering/combat/#TOC-Threatened-Squares" }]
+  },
+  {
+    "id": "ability_score",
+    "term": "Ability Score",
+    "aliases": ["ability scores"],
+    "category": "general",
+    "shortDef": "The six core statistics: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Each generates a modifier of (score − 10) / 2.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/ability-scores/" }]
+  },
+  {
+    "id": "skill_ranks",
+    "term": "Skill Ranks",
+    "aliases": ["ranks"],
+    "category": "general",
+    "shortDef": "Points invested in a skill (max = character level). Each rank grants +1 to that skill check; cross-class skills cost 1 rank each.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/skills/skill-basics/#TOC-Skill-Ranks" }]
+  },
+  {
+    "id": "class_skill",
+    "term": "Class Skill",
+    "aliases": ["class skills"],
+    "category": "general",
+    "shortDef": "A skill on a class's list. Having at least 1 rank in a class skill grants +3 to checks with it.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/skills/skill-basics/#TOC-Class-Skills" }]
+  },
+  {
+    "id": "prestige_class",
+    "term": "Prestige Class",
+    "aliases": ["PrC", "prestige"],
+    "category": "general",
+    "shortDef": "An advanced class that requires meeting specific prerequisites before entry. Provides specialized abilities unavailable to base classes.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/classes/prestige-classes/" }]
+  },
+  {
+    "id": "archetype",
+    "term": "Archetype",
+    "aliases": ["archetypes"],
+    "category": "general",
+    "shortDef": "A variant of a base class that swaps out certain class features for different abilities, allowing customized specialization.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/classes/core-classes/" }]
+  },
+  {
+    "id": "favored_class",
+    "term": "Favored Class",
+    "aliases": ["favored class bonus"],
+    "category": "general",
+    "shortDef": "Each character designates one class as their favored class. Gaining a level in it grants +1 HP or +1 skill rank, or a special racial bonus.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Favored_Class" }]
+  },
+  {
+    "id": "multiclass",
+    "term": "Multiclassing",
+    "aliases": ["multiclass", "multi-class"],
+    "category": "general",
+    "shortDef": "Taking levels in more than one class. BAB, saves, and spells each advance separately per class.",
+    "sourceRefs": [{ "site": "d20pfsrd", "url": "https://www.d20pfsrd.com/classes/#TOC-Multiclassing" }]
+  }
+]
