@@ -538,7 +538,7 @@
       "attacks of opportunity"
     ],
     "category": "combat",
-    "shortDef": "A free melee attack provoked when a foe in your threatened area takes a distracting action (casting, moving out, etc.).",
+    "shortDef": "Sometimes a combatant in a melee lets her guard down or takes a reckless action. In this case, combatants near her can take advantage of her lapse in defense to attack her for free. These free attacks are called attacks of opportunity. See the Attacks of Opportunity diagram for an example of how they work.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -554,7 +554,7 @@
       "base attack"
     ],
     "category": "combat",
-    "shortDef": "An attack bonus derived from class and level. Added to attack rolls; governs iterative attacks and combat maneuver checks.",
+    "shortDef": "Each creature has a base attack bonus and it represents its skill in combat. As a character gains levels or Hit Dice, his base attack bonus improves. When a creature’s base attack bonus reaches +6, +11, or +16, he receives an additional attack in combat when he takes a full-attack action (which is one type of full-round action—see Combat).",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -567,7 +567,7 @@
     "term": "Bull Rush",
     "aliases": [],
     "category": "combat",
-    "shortDef": "Combat maneuver to push an opponent straight back without dealing damage.",
+    "shortDef": "You can make a bull rush as a standard action or as part of a charge, in place of the melee attack. You can only bull rush an opponent who is no more than one size category larger than you. A bull rush attempts to push an opponent straight back without doing any harm. If you do not have the Improved Bull Rush feat, or a similar ability, initiating a bull rush provokes an attack of opportunity from the target of your maneuver.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -582,7 +582,7 @@
       "charging"
     ],
     "category": "combat",
-    "shortDef": "Move twice your speed in a straight line and make one melee attack at +2 to hit; −2 AC until next turn.",
+    "shortDef": "Charging is a special full-round action that allows you to move up to twice your speed and attack during the action. Charging, however, carries tight restrictions on how you can move. You must move before your attack, not after. You must move at least 10 feet (2 squares) and may move up to double your speed directly toward the designated opponent. If you move a distance equal to your speed or less, you can also draw a weapon during a charge attack if your base attack bonus is at least +1.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -597,7 +597,7 @@
       "CMB"
     ],
     "category": "combat",
-    "shortDef": "Bonus for special combat maneuvers. CMB = BAB + Str modifier + special size modifier.",
+    "shortDef": "Each character and creature has a Combat Maneuver Bonus (or CMB) that represents its skill at performing combat maneuvers. A creature’s CMB is determined using the following formula: CMB = Base attack bonus + Strength modifier + special size modifier Some feats and abilities grant a bonus to your CMB when performing specific maneuvers.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -612,7 +612,7 @@
       "CMD"
     ],
     "category": "combat",
-    "shortDef": "Defense against special combat maneuvers. CMD = 10 + BAB + Str + Dex + special size modifier.",
+    "shortDef": "Each character and creature has a Combat Maneuver Defense (or CMD) that represents its ability to resist combat maneuvers. A creature’s CMD is determined using the following formula:",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -627,7 +627,7 @@
       "CDG"
     ],
     "category": "combat",
-    "shortDef": "A full-round action to deliver a killing blow to a helpless creature. On a hit, it deals damage and the target must save or die.",
+    "shortDef": "As a full-round action, you can use a melee weapon to deliver a coup de grace (pronounced “coo day grahs”) to a helpless opponent. You can also use a bow or crossbow, provided you are adjacent to the target. You automatically hit and score a critical hit. If the defender survives the damage, he must make a Fortitude save DC 10 + damage dealt) or die. A rogue also gets her extra sneak attack damage against a helpless opponent when delivering a coup de grace. Delivering a coup de grace provokes attacks of opportunity from threatening opponents.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -644,7 +644,7 @@
       "critical threat"
     ],
     "category": "combat",
-    "shortDef": "A confirmed attack in the threat range of a weapon multiplies damage by the weapon's critical multiplier.",
+    "shortDef": "When you make an attack roll and get a natural 20 (the d20 shows 20), you hit regardless of your target’s Armor Class, and you have scored a “threat,” meaning the hit might be a critical hit (or “crit”). To find out if it’s a critical hit, you immediately make an attempt to “confirm” the critical hit—another attack roll with all the same modifiers as the attack roll you just made. If the confirmation roll also results in a hit against the target’s AC, your original hit is a critical hit. (The critical roll just needs to hit to give you a crit, it doesn’t need to come up 20 again.) If the confirmation roll is a miss, then your hit is just a regular hit.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -659,7 +659,7 @@
       "disarming"
     ],
     "category": "combat",
-    "shortDef": "Combat maneuver to knock a weapon from a foe's hand. Uses CMB vs. CMD.",
+    "shortDef": "You can attempt to disarm your opponent in place of a melee attack. If you do not have the Improved Disarm feat, or a similar ability, attempting to disarm a foe provokes an attack of opportunity from the target of your maneuver. Attempting to disarm a foe while unarmed imposes a –4 penalty on the attack.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -674,7 +674,7 @@
       "feinting"
     ],
     "category": "combat",
-    "shortDef": "Bluff check (DC 10 + BAB + Wis mod) as a standard action to deny a foe their Dex bonus to AC until your next attack.",
+    "shortDef": "Note: Though the feint action is located here, near the rules for combat maneuvers, and while it seems like it might BE a combat maneuver, feinting is NOT a combat maneuver. The Paizo PRD is organized with the feint rules located in the same placement.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -689,7 +689,7 @@
       "flank"
     ],
     "category": "combat",
-    "shortDef": "Two allies threatening an opponent from opposite sides each gain +2 to attack rolls against it.",
+    "shortDef": "When making a melee attack, you get a +2 flanking bonus if your opponent is threatened by another enemy character or creature on its opposite border or opposite corner. When in doubt about whether two characters flank an opponent in the middle, trace an imaginary line between the two attackers’ centers. If the line passes through opposite borders of the opponent’s space (including corners of those borders), then the opponent is flanked. Exception: If a flanker takes up more than 1 square, it gets the flanking bonus if any square it occupies counts for flanking. Only a creature or character that threatens the defender can help an attacker get a flanking bonus.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -705,7 +705,7 @@
       "full round attack"
     ],
     "category": "combat",
-    "shortDef": "A full-round action allowing all iterative attacks from BAB (at −5 per attack beyond the first).",
+    "shortDef": "If you get more than one attack per round because your base attack bonus is high enough (see Base Attack Bonus in Classes), because you fight with two weapons or a double weapon, or for some special reason, you must use a full-round action to get your additional attacks. You do not need to specify the targets of your attacks ahead of time. You can see how the earlier attacks turn out before assigning the later ones. The only movement you can take during a full attack is a 5-foot step. You may take the step before, after, or between your attacks.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -718,7 +718,7 @@
     "term": "Overrun",
     "aliases": [],
     "category": "combat",
-    "shortDef": "Combat maneuver to move through an opponent's square. Success moves you through; failure stops you.",
+    "shortDef": "During your movement, you can attempt to move through a square occupied by an opponent (see Overrun).",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -733,7 +733,7 @@
       "sneak"
     ],
     "category": "combat",
-    "shortDef": "Rogue ability granting extra damage dice when attacking a flat-footed or flanked target.",
+    "shortDef": "If a rogue can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage. The rogue’s attack deals extra damage anytime her target would be denied a Dexterity bonus to AC (whether the target actually has a Dexterity bonus or not), or when the rogue flanks her target. This extra damage is 1d6 at 1st level, and increases by 1d6 every two rogue levels thereafter. Should the rogue score a critical hit with a sneak attack, this extra damage is not multiplied. Ranged attacks can count as sneak attacks only if the target is within 30 feet.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -748,7 +748,7 @@
       "sundering"
     ],
     "category": "combat",
-    "shortDef": "Combat maneuver to damage or destroy a held or worn item on an opponent.",
+    "shortDef": "You can attempt to sunder an item held or worn by your opponent as part of an attack action in place of a melee attack in place of a melee attack* (see Editors Note: Multiple Sunder Attempts). If you do not have the Improved Sunder feat, or a similar ability, attempting to sunder an item provokes an attack of opportunity from the target of your maneuver.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -761,7 +761,7 @@
     "term": "Total Defense",
     "aliases": [],
     "category": "combat",
-    "shortDef": "A standard action that grants +4 dodge bonus to AC for one round; you cannot attack.",
+    "shortDef": "You can defend yourself as a standard action. You get a +4 dodge bonus to your AC for 1 round. Your AC improves at the start of this action. You can’t combine total defense with fighting defensively or with the benefit of the Combat Expertise feat. You can’t make attacks of opportunity while using total defense.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -776,7 +776,7 @@
       "tripping"
     ],
     "category": "combat",
-    "shortDef": "Combat maneuver to knock an opponent prone. If failed by 10+, you fall prone instead.",
+    "shortDef": "You can attempt to trip your opponent in place of a melee attack. You can only trip an opponent who is no more than one size category larger than you. If you do not have the Improved Trip feat, or a similar ability, initiating a trip provokes an attack of opportunity from the target of your maneuver. If your attack exceeds the target’s CMD, the target is knocked prone. If your attack fails by 10 or more, you are knocked prone instead. If the target has more than two legs, add +2 to the DC of the combat maneuver attack roll for each additional leg it has. Some creatures—such as oozes, creatures without legs, and flying creatures—cannot be tripped. See FAQ for more information.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -792,7 +792,7 @@
       "two weapon"
     ],
     "category": "combat",
-    "shortDef": "Fighting with a weapon in each hand imposes attack penalties (−6/−10 reduced by feats and light offhand).",
+    "shortDef": "If you wield a second weapon in your off hand, you can get one extra attack per round with that weapon. You suffer a –6 penalty with your regular attack or attacks with your primary hand and a –10 penalty to the attack with your off hand when you fight this way. You can reduce these penalties in two ways. First, if your off-hand weapon is light, the penalties are reduced by 2 each. An unarmed strike is always considered light. Second, the Two-Weapon Fighting feat lessens the primary hand penalty by 2, and the off-hand penalty by 6. Table: Two-weapon Fighting Penalties summarizes the interaction of all these factors.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -805,7 +805,7 @@
     "term": "Aid Another",
     "aliases": [],
     "category": "combat",
-    "shortDef": "A standard action; make a DC 10 attack roll to grant an ally +2 to their next attack roll or AC.",
+    "shortDef": "In melee combat, you can help a friend attack or defend by distracting or interfering with an opponent. If you’re in position to make a melee attack on an opponent that is engaging a friend in melee combat, you can attempt to aid your friend as a standard action. You make an attack roll against AC 10. If you succeed, your friend gains either a +2 bonus on his next attack roll against that opponent or a +2 bonus to AC against that opponent’s next attack (your choice), as long as that attack comes before the beginning of your next turn. Multiple characters can aid the same friend, and similar bonuses stack.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -820,7 +820,7 @@
       "concealed"
     ],
     "category": "combat",
-    "shortDef": "Partial or total obscurement (fog, darkness, etc.) grants the target a miss chance: 20% for partial, 50% for total concealment.",
+    "shortDef": "To determine whether your target has concealment from your ranged attack, choose a corner of your square. If any line from this corner to any corner of the target’s square passes through a square or border that provides concealment, the target has concealment. When making a melee attack against an adjacent target, your target has concealment if his space is entirely within an effect that grants concealment. When making a melee attack against a target that isn’t adjacent to you, use the rules for determining concealment from ranged attacks. In addition, some magical effects provide concealment against all attacks, regardless of whether any intervening concealment exists.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -835,7 +835,7 @@
       "taking cover"
     ],
     "category": "combat",
-    "shortDef": "Physical obstruction between attacker and target. Grants +4 to AC and +2 to Reflex saves; soft cover only +4 AC.",
+    "shortDef": "To determine whether your target has cover from your ranged attack, choose a corner of your square. If any line from this corner to any corner of the target’s square passes through a square or border that blocks line of effect or provides cover, or through a square occupied by a creature, the target has cover (+4 to AC). When making a melee attack against an adjacent target, your target has cover if any line from any corner of your square to the target’s square goes through a wall (including a low wall). When making a melee attack against a target that isn’t adjacent to you (such as with a reach weapon), use the rules for determining cover from ranged attacks.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -861,7 +861,7 @@
     "term": "Drag",
     "aliases": [],
     "category": "combat",
-    "shortDef": "Combat maneuver to pull a creature directly toward you; creature moves into the space between you.",
+    "shortDef": "Source: PZO1115. You can attempt to drag a foe as a standard action. You can only drag an opponent who is no more than one size category larger than you. The aim of this maneuver is to drag a foe in a straight line behind you without doing any harm. If you do not have the Improved Drag feat or a similar ability, initiating a drag provokes an attack of opportunity from the target of your maneuver.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -913,7 +913,7 @@
     "term": "Withdraw",
     "aliases": [],
     "category": "combat",
-    "shortDef": "A full-round action to move up to double speed without provoking an attack of opportunity from the first square left.",
+    "shortDef": "Withdrawing from melee combat is a full-round action. When you withdraw, you can move up to double your speed. The square you start out in is not considered threatened by any opponent you can see, and therefore visible enemies do not get attacks of opportunity against you when you move from that square. Invisible enemies still get attacks of opportunity against you, and you can’t withdraw from combat if you’re blinded. You can’t take a 5-foot step during the same round in which you withdraw. If, during the process of withdrawing, you move out of a threatened square (other than the one you started in), enemies get attacks of opportunity as normal.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -928,7 +928,7 @@
       "ranged touch"
     ],
     "category": "combat",
-    "shortDef": "A touch attack made at range. Ignores armor and natural armor bonuses but is subject to range penalties and cover.",
+    "shortDef": "Some attacks completely disregard armor, including shields and natural armor—the aggressor need only touch a foe for such an attack to take full effect. In these cases, the attacker makes a touch attack roll (either ranged or melee). When you are the target of a touch attack, your AC doesn’t include any armor bonus, shield bonus, or natural armor bonus. All other modifiers, such as your size modifier, Dexterity modifier, and deflection bonus (if any) apply normally. Some creatures have the ability to make incorporeal touch attacks. These attacks bypass solid objects, such as armor and shields, by passing through them. Incorporeal touch attacks work similarly to normal touch attacks except that they also ignore cover bonuses. Incorporeal touch attacks do not ignore armor bonuses granted by force effects, such as mage armor and bracers of armor.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -945,7 +945,7 @@
       "threatened square"
     ],
     "category": "combat",
-    "shortDef": "The squares a creature can make attacks of opportunity into — typically all squares within reach.",
+    "shortDef": "You threaten all squares into which you can make a melee attack, even when it is not your turn. Generally, that means everything in all squares adjacent to your space (including diagonally). An enemy that takes certain actions while in a threatened square provokes an attack of opportunity from you. If you’re unarmed, you don’t normally threaten any squares and thus can’t make attacks of opportunity.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -960,7 +960,7 @@
       "reach weapon"
     ],
     "category": "combat",
-    "shortDef": "The distance at which a creature (or weapon) can threaten and attack. Most Medium creatures have 5-ft. reach; reach weapons extend to 10 ft.",
+    "shortDef": "Most creatures of Medium or smaller size have a reach of only 5 feet. This means that they can make melee attacks only against creatures up to 5 feet (1 square) away. However, Small and Medium creatures wielding reach weapons threaten more squares than a typical creature. In addition, most creatures larger than Medium have a natural reach of 10 feet or more.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -975,7 +975,7 @@
       "grappling"
     ],
     "category": "combat",
-    "shortDef": "Combat maneuver to seize and restrain an opponent. Success inflicts the grappled condition on both parties; continued success can pin the target.",
+    "shortDef": "As a standard action, you can attempt to grapple a foe, hindering his combat options. If you do not have Improved Grapple, grab, or a similar ability, attempting to grapple a foe provokes an attack of opportunity from the target of your maneuver. Humanoid creatures without two free hands attempting to grapple a foe take a –4 penalty on the combat maneuver roll. If successful, both you and the target gain the grappled condition. If you successfully grapple a creature that is not adjacent to you, move that creature to an adjacent open space (if no space is available, your grapple fails). Although both creatures have the grappled condition, you can, as the creature that initiated the grapple, release the grapple as a free action, removing the condition from both you and the target. If you do not release the grapple, you must continue to make a check each round, as a standard action, to maintain the hold. If your target does not break the grapple, you get a +5 circumstance bonus on grapple checks made against the same target in subsequent rounds. Once you are grappling an opponent, a successful check allows you to continue grappling the foe, and also allows you to perform one of the following actions (as part of the standard action spent to maintain the grapple).",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -988,7 +988,7 @@
     "term": "Standard Action",
     "aliases": [],
     "category": "action",
-    "shortDef": "The most common action type. Includes most attacks, casting a spell, and many special abilities. One per round.",
+    "shortDef": "A standard action allows you to do something, most commonly to make an attack or cast a spell. See Table: Actions in Combat for other standard actions. Some combat options (such as using the Cleave feat) are standard actions that allow you to make an attack, but don’t count as the attack action. These options can’t be combined with other standard actions or options that modify only attack actions (such as Vital Strike). Source: PZO9468",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1001,7 +1001,7 @@
     "term": "Move Action",
     "aliases": [],
     "category": "action",
-    "shortDef": "An action that lets you move up to your speed or perform a comparably quick task (draw weapon, pick up item). One per round.",
+    "shortDef": "A move action allows you to move up to your speed or perform an action that takes a similar amount of time. See Table: Actions in Combat for other move actions. You can take a move action in place of a standard action. If you move no actual distance in a round (commonly because you have swapped your move action for one or more equivalent actions), you can take one 5-foot step either before, during, or after the action.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1016,7 +1016,7 @@
       "full round action"
     ],
     "category": "action",
-    "shortDef": "Consumes both your standard and move actions. Examples: full attack, run, casting a 1-round spell.",
+    "shortDef": "A full-round action consumes all your effort during a round. The only movement you can take during a full-round action is a 5-foot step before, during, or after the action. You can also perform free actions and swift actions (see below). See Table: Actions in Combat for a list of full-round actions. Some full-round actions do not allow you to take a 5-foot step. Some full-round actions can be taken as standard actions, but only in situations when you are limited to performing only a standard action during your round. The descriptions of specific actions detail which actions allow this option.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1029,7 +1029,7 @@
     "term": "Swift Action",
     "aliases": [],
     "category": "action",
-    "shortDef": "A very fast action consuming very little time. Only one swift action per turn; used for quickened spells and certain class abilities.",
+    "shortDef": "A swift action consumes a very small amount of time, but represents a larger expenditure of effort and energy than a free action. You can perform only a single swift action per turn. Several combat options are swift actions that modify one or more attacks you take after that swift action. For example, Channel Smite and Weapon of the Chosen each take a swift action to activate, which then applies to the next attack you make regardless of what type of attack action you perform. Arcane Strike and Improved Weapon of the Chosen are activated in much the same way, but they apply to all appropriate attacks made for 1 round after activation. Source: PZO9468",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1042,7 +1042,7 @@
     "term": "Immediate Action",
     "aliases": [],
     "category": "action",
-    "shortDef": "Like a swift action but can be taken even outside your turn. Using one means you lose your swift action on your next turn.",
+    "shortDef": "An immediate action is very similar to a swift action, but can be performed at any time—even if it’s not your turn.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1055,7 +1055,7 @@
     "term": "Free Action",
     "aliases": [],
     "category": "action",
-    "shortDef": "Negligibly quick actions (drop an item, speak a sentence). Several per round; GM may set reasonable limits.",
+    "shortDef": "Free actions consume a very small amount of time and effort. You can perform one or more free actions while taking another action normally. However, there are reasonable limits on what you can really do for free, as decided by the GM. Some combat options are free actions meant to be combined with an attack. Often, these are feats with specific limitations defined within the feat—for example, Cleaving Finish gives you an extra melee attack, but only after you make an attack that drops a foe. Source: PZO9468",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1071,7 +1071,7 @@
       "readying"
     ],
     "category": "action",
-    "shortDef": "Use a standard action to declare a trigger; when triggered, you act before or after that event (your choice at readying).",
+    "shortDef": "The ready action lets you prepare to take an action later, after your turn is over but before your next one has begun. Readying is a standard action. It does not provoke an attack of opportunity (though the action that you ready might do so).",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1087,7 +1087,7 @@
       "delaying"
     ],
     "category": "action",
-    "shortDef": "Voluntarily act later in the round. Your initiative count changes to the point you choose to act.",
+    "shortDef": "By choosing to delay, you take no action and then act normally on whatever initiative count you decide to act. When you delay, you voluntarily reduce your own initiative result for the rest of the combat. When your new, lower initiative count comes up later in the same round, you can act normally. You can specify this new initiative result or just wait until some time later in the round and act then, thus fixing your new initiative count at that point. You never get back the time you spend waiting to see what’s going to happen. You also can’t interrupt anyone else’s action (as you can with a readied action).",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1118,7 +1118,7 @@
       "abjuration school"
     ],
     "category": "magic",
-    "shortDef": "Spell school specializing in protective and warding magic: shields, counterspells, banishment, and dispelling effects.",
+    "shortDef": "Abjurations are protective spells. They create physical or magical barriers, negate magical or physical abilities, harm trespassers, or even banish the subject of the spell to another plane of existence. If one abjuration spell is active within 10 feet of another for 24 hours or more, the magical fields interfere with each other and create barely visible energy fluctuations. The DC to find such spells with the Perception skill drops by 4.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1133,7 +1133,7 @@
       "conjuration school"
     ],
     "category": "magic",
-    "shortDef": "Spell school that brings creatures, objects, or materials from elsewhere — summons, teleportation, and healing fall here.",
+    "shortDef": "Each conjuration spell belongs to one of five subschools. Conjurations transport creatures from another plane of existence to your plane (calling); create objects or effects on the spot (creation); heal (healing); bring manifestations of objects, creatures, or forms of energy to you (summoning); or transport creatures or objects over great distances (teleportation). Creatures you conjure usually- but not always- obey your commands. A creature or object brought into being or transported to your location by a conjuration spell cannot appear inside another creature or object, nor can it appear floating in an empty space. It must arrive in an open location on a surface capable of supporting it.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1148,7 +1148,7 @@
       "divination school"
     ],
     "category": "magic",
-    "shortDef": "Spell school dedicated to revealing information: scrying, detection, true seeing, and knowledge-granting effects.",
+    "shortDef": "Divination spells enable you to learn secrets long forgotten, predict the future, find hidden things, and foil deceptive spells. Many divination spells have cone-shaped areas. These move with you and extend in the direction you choose. The cone defines the area that you can sweep each round. If you study the same area for multiple rounds, you can often gain additional information, as noted in the descriptive text for the spell. Subschools",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1163,7 +1163,7 @@
       "enchantment school"
     ],
     "category": "magic",
-    "shortDef": "Spell school that affects minds and emotions. Includes charm and compulsion effects; most require the target to be a living creature.",
+    "shortDef": "Enchantment spells affect the minds of others, influencing or controlling their behavior. All enchantments are mind-affecting spells. Two subschools of enchantment spells grant you influence over a subject creature. Subschools",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1178,7 +1178,7 @@
       "evocation school"
     ],
     "category": "magic",
-    "shortDef": "Spell school that manipulates energy to produce destructive or impressive effects — fireballs, lightning bolts, and force effects.",
+    "shortDef": "Evocation spells manipulate magical energy or tap an unseen source of power to produce a desired end. In effect, an evocation draws upon magic to create something out of nothing. Many of these spells produce spectacular effects, and evocation spells can deal large amounts of damage.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1193,7 +1193,7 @@
       "illusion school"
     ],
     "category": "magic",
-    "shortDef": "Spell school creating false sensory impressions. Subtypes include figments, glamers, phantasms, patterns, and shadows.",
+    "shortDef": "Illusion spells deceive the senses or minds of others. They cause people to see things that are not there, not see things that are there, hear phantom noises, or remember things that never happened. Subschools Creatures encountering an illusion usually do not receive saving throws to recognize it as illusory until they study it carefully or interact with it in some fashion. A successful saving throw against an illusion reveals it to be false, but a figment or phantasm remains as a translucent outline.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1208,7 +1208,7 @@
       "necromancy school"
     ],
     "category": "magic",
-    "shortDef": "Spell school manipulating life force and undeath. Includes energy drain, death effects, and animating corpses.",
+    "shortDef": "Necromancy spells manipulate the power of death, unlife, and the life force. Spells involving undead creatures make up a large part of this school.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1223,7 +1223,7 @@
       "transmutation school"
     ],
     "category": "magic",
-    "shortDef": "Spell school that physically alters creatures, objects, or conditions. Includes polymorph, enhancement, and movement effects.",
+    "shortDef": "Transmutation spells change the properties of some creature, thing, or condition. Subschools",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1394,7 +1394,7 @@
       "counter"
     ],
     "category": "magic",
-    "shortDef": "Interrupt an opponent's spellcasting with a readied action. Must cast the same spell or a counterspell substitute (e.g., dispel magic).",
+    "shortDef": "It is possible to cast any spell as a counterspell. By doing so, you are using the spell’s energy to disrupt the casting of the same spell by another character. Counterspelling works even if one spell is divine and the other arcane. How Counterspells Work: To use a counterspell, you must select an opponent as the target of the counterspell. You do this by choosing to ready an action. In doing so, you elect to wait to complete your action until your opponent tries to cast a spell. You may still move at your normal speed, since ready is a standard action.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1425,7 +1425,7 @@
       "difficulty class"
     ],
     "category": "magic",
-    "shortDef": "The number a target must roll (d20 + save bonus) to resist a spell or effect. DC = 10 + spell level + casting stat modifier.",
+    "shortDef": "Usually a harmful spell allows a target to make a saving throw to avoid some or all of the effect. The saving throw entry in a spell description defines which type of saving throw the spell allows and describes how saving throws against the spell work.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1441,7 +1441,7 @@
       "V component"
     ],
     "category": "magic",
-    "shortDef": "A spell requiring specific spoken words. Cannot be cast while deafened (20% failure) or silenced.",
+    "shortDef": "A spell’s components explain what you must do or possess to cast the spell. The components entry in a spell description includes abbreviations that tell you what type of components it requires. Specifics for material and focus components are given at the end of the descriptive text. Usually you don’t need to worry about components, but when you can’t use a component for some reason or when a material or focus component is expensive, then the components are important.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1504,7 +1504,7 @@
       "descriptor"
     ],
     "category": "magic",
-    "shortDef": "A tag on a spell (fear, mind-affecting, light, fire, etc.) that indicates additional properties used by game mechanics and creature immunities.",
+    "shortDef": "Appearing on the same line as the school and sub-school, when applicable, is a descriptor that further categorizes the spell in some way. Some spells have more than one descriptor. The descriptors are acid, air, chaotic, cold, curse, darkness, death, disease, draconicPZO9470, earth, electricity, emotion, evil, fear, fire, force, good, language-dependent, lawful, light, meditativePPC:DA, mind-affecting, pain, poison, shadow, sonic, and water. Most of these descriptors have no game effect by themselves, but they govern how the spell interacts with other spells, with special abilities, with unusual creatures, with alignment, and so on.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1520,7 +1520,7 @@
       "arcane"
     ],
     "category": "magic",
-    "shortDef": "Spells cast by bards, sorcerers, wizards, and other arcane classes. Subject to arcane spell failure from armor.",
+    "shortDef": "Wizards, sorcerers, and bards cast arcane spells. Compared to divine spells, arcane spells are more likely to produce dramatic results. A wizard’s level limits the number of spells he can prepare and cast. His high Intelligence score might allow him to prepare a few extra spells. He can prepare the same spell more than once, but each preparation counts as one spell toward his daily limit. To prepare a spell, the wizard must have an Intelligence score of at least 10 + the spell’s level.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1536,7 +1536,7 @@
       "divine"
     ],
     "category": "magic",
-    "shortDef": "Spells drawn from a deity or natural power, cast by clerics, druids, paladins, and rangers. Not subject to arcane spell failure.",
+    "shortDef": "Clerics, druids, experienced paladins and rangers, inquisitors, oracles, the adept NPC class, the hunter hybrid class, the shaman hybrid class, and the warpriest hybrid class cast divine spells. Unlike arcane spells, divine spells draw power from a divine source. Clerics gain spell power from deities or from divine forces. The divine force of nature powers druid and ranger spells, and the divine forces of law and good power paladin spells. Divine spells tend to focus on healing and protection and are less flashy, destructive, and disruptive than arcane spells.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1626,7 +1626,7 @@
       "DR"
     ],
     "category": "defense",
-    "shortDef": "Reduces damage from physical attacks by a set number, bypassed by specified materials or alignments (e.g., DR 5/silver).",
+    "shortDef": "Some magic creatures have the supernatural ability to instantly heal damage from weapons or ignore blows altogether as though they were invulnerable. The numerical part of a creature’s damage reduction (or DR) is the amount of damage the creature ignores from normal attacks. Usually, a certain type of weapon can overcome this reduction (see Overcoming DR). This information is separated from the damage reduction number by a slash. For example, DR 5/magic means that a creature takes 5 less points of damage from all weapons that are not magic. If a dash follows the slash, then the damage reduction is effective against any attack that does not ignore damage reduction.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1642,7 +1642,7 @@
       "resistance"
     ],
     "category": "defense",
-    "shortDef": "Reduces damage of a specific energy type (fire, cold, etc.) by a set amount per attack.",
+    "shortDef": "A creature with resistance to energy has the ability (usually extraordinary) to ignore some damage of a certain type per attack, but it does not have total immunity. Each resistance ability is defined by what energy type it resists and how many points of damage are resisted. It doesn’t matter whether the damage has a mundane or magical source. When resistance completely negates the damage from an energy attack, the attack does not disrupt a spell. This resistance does not stack with the resistance that a spell might provide.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1668,7 +1668,7 @@
     "term": "Hardness",
     "aliases": [],
     "category": "defense",
-    "shortDef": "An object's resistance to damage; each attack's damage is reduced by the hardness value.",
+    "shortDef": "Each object has hardness—a number that represents how well it resists damage. When an object is damaged, subtract its hardness from the damage. Only damage in excess of its hardness is deducted from the object’s hit points (see Table: Common Armor, Weapon, and Shield Hardness and Hit Points, Table: Substance Hardness and Hit Points, and Table: Object Hardness and Hit Points).",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1728,7 +1728,7 @@
       "dark vision"
     ],
     "category": "defense",
-    "shortDef": "Can see in total darkness out to a specified range, but only in black and white.",
+    "shortDef": "Darkvision is the extraordinary ability to see with no light source at all, out to a range specified for the creature. Darkvision is black-and-white only (colors cannot be discerned). It does not allow characters to see anything that they could not see otherwise—invisible objects are still invisible, and illusions are still visible as what they seem to be. Likewise, darkvision subjects a creature to gaze attacks normally. The presence of light does not spoil darkvision.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1743,7 +1743,7 @@
       "low light vision"
     ],
     "category": "defense",
-    "shortDef": "Can see twice as far as a human in dim light. Elves, gnomes, and many other races share this ability.",
+    "shortDef": "Characters with low-light vision have eyes that are so sensitive to light that they can see twice as far as normal in dim light. Low-light vision is color vision. A spellcaster with low-light vision can read a scroll as long as even the tiniest candle flame is next to him as a source of light. Characters with low-light vision can see outdoors on a moonlit night as well as they can during the day.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1756,7 +1756,7 @@
     "term": "Blindsense",
     "aliases": [],
     "category": "defense",
-    "shortDef": "Detects creatures within range without sight; the creature is still aware of a foe's presence but does not ignore concealment.",
+    "shortDef": "Blindsense lets a creature notice things it cannot see, but without the precision of blindsight. The creature with blindsense usually does not need to make Perception checks to notice and locate creatures within range of its blindsense ability, provided that it has line of effect to that creature. Any opponent that cannot be seen has total concealment (50% miss chance) against a creature with blindsense, and the blindsensing creature still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1769,7 +1769,7 @@
     "term": "Blindsight",
     "aliases": [],
     "category": "defense",
-    "shortDef": "Perceives the environment precisely without relying on vision, negating concealment and miss chances up to its listed range.",
+    "shortDef": "Some creatures possess blindsight, the extraordinary ability to use a non-visual sense (or a combination senses) to operate effectively without vision. Such senses may include sensitivity to vibrations, acute scent, keen hearing, or echolocation. This makes invisibility and concealment (even magical darkness) irrelevant to the creature (though it still can’t see ethereal creatures). This ability operates out to a range specified in the creature description.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1782,7 +1782,7 @@
     "term": "Scent",
     "aliases": [],
     "category": "defense",
-    "shortDef": "Detects creatures by smell up to 30 ft. (60 ft. downwind, 15 ft. upwind). Can pinpoint a foe within 5 ft.",
+    "shortDef": "This extraordinary ability lets a creature detect approaching enemies, sniff out hidden foes, and track by sense of smell. A creature with the scent ability can detect opponents by sense of smell, generally within 30 feet. If the opponent is upwind, the range is 60 feet. If it is downwind, the range is 15 feet. Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above. Overpowering scents, such as skunk musk or troglodyte stench, can be detected at three times these ranges.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1810,7 +1810,7 @@
       "SR"
     ],
     "category": "defense",
-    "shortDef": "A creature's ability to shrug off spells. Caster must beat SR with a d20 + caster level roll for a spell to affect it.",
+    "shortDef": "Spell resistance (abbreviated SR) is the extraordinary ability to avoid being affected by spells. Some spells also grant spell resistance. To affect a creature that has spell resistance, a spellcaster must make a caster level check (1d20 + caster level) at least equal to the creature’s spell resistance. The defender’s spell resistance is like an Armor Class against magical attacks. If the caster fails the check, the spell doesn’t affect the creature. The possessor does not have to do anything special to use spell resistance. The creature need not even be aware of the threat for its spell resistance to operate.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1849,7 +1849,7 @@
     "term": "Ability Drain",
     "aliases": [],
     "category": "general",
-    "shortDef": "Permanent loss of ability score points. Requires restoration magic to recover.",
+    "shortDef": "Ability drain actually reduces the relevant ability score. Modify all skills and statistics related to that ability. This might cause you to lose skill points, hit points, and other bonuses. Ability drain can be healed through the use of spells such as restoration.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1865,7 +1865,7 @@
       "spell failure"
     ],
     "category": "general",
-    "shortDef": "Percentage chance an arcane spell fails when the caster wears armor that interferes with somatic components.",
+    "shortDef": "If you ever try to cast a spell in conditions where the characteristics of the spell cannot be made to conform, the casting fails and the spell is wasted. Spells also fail if your concentration is broken and might fail if you’re wearing armor while casting a spell with somatic components.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1880,7 +1880,7 @@
       "CL"
     ],
     "category": "general",
-    "shortDef": "A measure of magical power, usually equal to class level. Affects spell range, duration, and damage caps.",
+    "shortDef": "A spell’s power often depends on its caster level, which for most spellcasting characters is equal to her class level in the class she’s using to cast the spell. You can cast a spell at a lower caster level than normal, but the caster level you choose must be high enough for you to cast the spell in question, and all level-dependent features must be based on the same caster level.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1895,7 +1895,7 @@
       "concentrate"
     ],
     "category": "general",
-    "shortDef": "A check to cast or maintain a spell while distracted. DC varies by distraction type; key ability modifier applies.",
+    "shortDef": "To cast a spell, you must concentrate. If something interrupts your concentration while you’re casting, you must make a concentration check or lose the spell. When you make a concentration check, you roll d20 and add your caster level and the ability score modifier used to determine bonus spells of the same type. Clerics, druids, and rangers add their Wisdom modifier. Bards, paladins, and sorcerers add their Charisma modifier. Finally, wizards add their Intelligence modifier. The more distracting the interruption and the higher the level of the spell you are trying to cast, the higher the DC (see Table: Concentration Check DCs). If you fail the check, you lose the spell just as if you had cast it to no effect.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1924,7 +1924,7 @@
       "Fortitude"
     ],
     "category": "general",
-    "shortDef": "Saving throw based on Constitution. Resists physical threats: poison, disease, death effects.",
+    "shortDef": "These saves measure your ability to stand up to physical punishment or attacks against your vitality and health. Apply your Constitution modifier to your Fortitude saving throws.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1940,7 +1940,7 @@
       "hit die"
     ],
     "category": "general",
-    "shortDef": "Dice used to determine hit points gained per level. Also used to measure creature power for spell effects.",
+    "shortDef": "Hit Dice represent a creature’s general level of power and skill. As a creature gains levels, it gains additional Hit Dice. Monsters, on the other hand, gain racial Hit Dice, which represent the monster’s general prowess and ability. Hit Dice are represented by the number the creature possesses followed by a type of die, such as “3d8.” This value is used to determine a creature’s total hit points. In this example, the creature has 3 Hit Dice. When rolling for this creature’s hit points, you would roll a d8 three times and add the results together, along with other modifiers.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1953,7 +1953,7 @@
     "term": "Initiative",
     "aliases": [],
     "category": "general",
-    "shortDef": "A d20 + Dex modifier roll at the start of combat that determines the order of action.",
+    "shortDef": "At the start of a battle, each combatant makes an initiative check. An initiative check is a Dexterity check. Each character applies his or her Dexterity modifier to the roll, as well as other modifiers from feats, spells, and other effects. Characters act in order, counting down from the highest result to the lowest. In every round that follows, the characters act in the same order (unless a character takes an action that results in his or her initiative changing; see Special Initiative Actions).",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1969,7 +1969,7 @@
       "multiple attacks"
     ],
     "category": "general",
-    "shortDef": "Additional attacks granted at BAB +6, +11, and +16, each made at −5 from the previous.",
+    "shortDef": "A character who can make more than one attack per round must use the full-attack action (see Full-Round Actions) in order to get more than one attack.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -1985,7 +1985,7 @@
       "Reflex"
     ],
     "category": "general",
-    "shortDef": "Saving throw based on Dexterity. Resists area effects and dodgeable dangers.",
+    "shortDef": "These saves test your ability to dodge area attacks and unexpected situations. Apply your Dexterity modifier to your Reflex saving throws.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2001,7 +2001,7 @@
       "saves"
     ],
     "category": "general",
-    "shortDef": "A die roll to resist or reduce a harmful effect. Three types: Fortitude (Con), Reflex (Dex), Will (Wis).",
+    "shortDef": "Generally, when you are subject to an unusual or magical attack, you get a saving throw to avoid or reduce the effect. Like an attack roll, a saving throw is a d20 roll plus a bonus based on your class and level (see Classes), and an associated ability score. Your saving throw modifier is: Base save bonus + ability modifier The three different kinds of saving throws are Fortitude, Reflex, and Will: The DC for a save is determined by the attack itself. A natural 1 (the d20 comes up 1) on a saving throw is always a failure (and may cause damage to exposed items; see Items Surviving after a Saving Throw). A natural 20 (the d20 comes up 20) is always a success.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2031,7 +2031,7 @@
       "Will"
     ],
     "category": "general",
-    "shortDef": "Saving throw based on Wisdom. Resists mental and mind-affecting effects, fear, compulsion, and illusions.",
+    "shortDef": "These saves reflect your resistance to mental influence as well as many magical effects. Apply your Wisdom modifier to your Will saving throws.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2044,7 +2044,7 @@
     "term": "Alignment",
     "aliases": [],
     "category": "general",
-    "shortDef": "A descriptor of a creature's moral and ethical disposition on two axes: Good/Neutral/Evil and Lawful/Neutral/Chaotic.",
+    "shortDef": "Alignment represents a creature’s basic moral and ethical attitude. Alignment has two components: one describing whether a creature is lawful, neutral, or chaotic, followed by another that describes whether a character is good, neutral, or evil. Alignments are usually abbreviated using the first letter of each alignment component, such as LN for lawful neutral or CE for chaotic evil. Creatures that are neutral in both components are denoted by a single “N.”",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2075,7 +2075,7 @@
       "sizes"
     ],
     "category": "general",
-    "shortDef": "Creatures range from Fine to Colossal (Fine, Diminutive, Tiny, Small, Medium, Large, Huge, Gargantuan, Colossal). Size affects attack, AC, CMB, CMD, and stealth.",
+    "shortDef": "A creatures size comes up frequently. Find below some very commonly referenced information. See page Size, Reach, & Threatened Areas for some examples and diagrams. 1 A creatures size modifier applies to its attacks and Armor Class.2 A creatures special size modifier applies to it’s Combat Maneuver Bonus (CMB) and Combat Maneuver Defense (CMD).3 These values are typical for creatures of the indicated size. Some exceptions exist.4 A different size modifier applies to Fly and Stealth skill checks a creature makes.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2106,7 +2106,7 @@
       "nonlethal"
     ],
     "category": "general",
-    "shortDef": "Damage intended to knock out rather than kill. When nonlethal equals or exceeds current HP, the creature is staggered, then unconscious.",
+    "shortDef": "Nonlethal damage represents harm to a character that is not life-threatening. Unlike normal damage, nonlethal damage is healed quickly with rest. Certain attacks deal nonlethal damage. Other effects, such as heat or being exhausted, also deal nonlethal damage. When you take nonlethal damage, keep a running total of how much you’ve accumulated. Do not deduct the nonlethal damage number from your current hit points. It is not “real” damage. Instead, when your nonlethal damage equals your current hit points, you’re staggered (see below), and when it exceeds your current hit points, you fall unconscious.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2122,7 +2122,7 @@
       "stabilized"
     ],
     "category": "general",
-    "shortDef": "A dying creature that has stopped losing hit points. A stable creature is still unconscious but no longer makes Con checks.",
+    "shortDef": "A character who was dying but who has stopped losing hit points each round and still has negative hit points is stable. The character is no longer dying, but is still unconscious. If the character has become stable because of aid from another character (such as a Heal check or magical healing), then the character no longer loses hit points. The character can make a DC 10 Constitution check each hour to become conscious and disabled (even though his hit points are still negative). The character takes a penalty on this roll equal to his negative hit point total.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2137,7 +2137,7 @@
       "channel energy"
     ],
     "category": "general",
-    "shortDef": "The ability (via Channel Energy for clerics) to damage or destroy undead in a radius. Positive energy harms undead; negative energy harms living creatures.",
+    "shortDef": "Regardless of alignment, any cleric can release a wave of energy by channeling the power of her faith through her holy (or unholy) symbol. This energy can be used to cause or heal damage, depending on the type of energy channeled and the creatures targeted.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2150,7 +2150,7 @@
     "term": "Action Economy",
     "aliases": [],
     "category": "general",
-    "shortDef": "The system governing how many and what kinds of actions a creature can take in a round (standard, move, swift, free, immediate).",
+    "shortDef": "During one turn, there are a wide variety of actions that your character can perform, from swinging a sword to casting a spell. Many attacks are basic combat options or combat maneuvers any character can attempt, while others are available only through attack-oriented feats. Different combat options require different types of actions. The action type defines which options can be used together. Basic: Anyone can use these combat options, including charging and fighting defensively.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2163,7 +2163,7 @@
     "term": "Bonus Type",
     "aliases": [],
     "category": "general",
-    "shortDef": "Bonuses of the same type (e.g., enhancement, morale, luck) do not stack — only the highest applies. Dodge bonuses and untyped bonuses are exceptions.",
+    "shortDef": "Bonuses are numerical values that are added to checks and statistical scores. Most bonuses have a type, and as a general rule, bonuses of the same type are not cumulative (do not “stack”)—only the greater bonus granted applies. The important aspect of bonus types is that two bonuses of the same type don’t generally stack. With the exception of dodge bonuses, most circumstance bonuses, and racial bonuses, only the better bonus of a given type works. Bonuses without a type always stack, unless they are from the same source.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2178,7 +2178,7 @@
       "AC"
     ],
     "category": "general",
-    "shortDef": "The target number an attacker must meet or exceed to hit a creature. AC = 10 + armor + shield + Dex + size + other bonuses.",
+    "shortDef": "All creatures in the game have an Armor Class. This score represents how difficult a character is to hit with weapons and some spells, and works much like a Difficulty Class for attacks. As with other scores, higher is better. This is the target number enemies need to hit you. Your basic AC is 10 + Dex modifier + armor bonus + shield bonus + spells or magic items that grant an AC bonus. An average unarmored person has an AC of 10. Armor and various abilities can increase this number.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2194,7 +2194,7 @@
       "hp"
     ],
     "category": "general",
-    "shortDef": "A measure of a creature's health. Damage reduces HP; at 0 the creature is disabled; below 0 they are dying; at −Con they die.",
+    "shortDef": "Hit points are an abstraction signifying how robust and healthy a creature is at the current moment. To determine a creature’s hit points, roll the dice indicated by its Hit Dice. A creature gains maximum hit points if its first Hit Die roll is for a character class level. Creatures whose first Hit Die comes from an NPC class or from his race roll their first Hit Die normally. Wounds subtract hit points, while healing (both natural and magical) restores hit points. Some abilities and spells grant temporary hit points that disappear after a specific duration. When a creature’s hit points drop below 0, it becomes unconscious. When a creature’s hit points reach a negative total equal to its Constitution score, it dies.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
@@ -2209,7 +2209,7 @@
       "XP"
     ],
     "category": "general",
-    "shortDef": "Points awarded for overcoming challenges. Accumulating XP leads to gaining levels according to the campaign's advancement track.",
+    "shortDef": "As a character overcomes challenges, defeats monsters, and completes quests, he gains experience points. These points accumulate over time, and when they reach or surpass a specific value, the character gains a level.",
     "sourceRefs": [
       {
         "site": "d20pfsrd",
