@@ -1,0 +1,3424 @@
+{
+  "generatedAt": "2026-06-12T14:08:27.270109+00:00",
+  "count": 854,
+  "paizoCount": 620,
+  "thirdPartyCount": 234,
+  "books": [
+    {
+      "name": "#1 With a Bullet Point: 10 Monster Feats",
+      "thirdParty": true
+    },
+    {
+      "name": "#1 with a Bullet Point: 6 Teleportation Spell Feats",
+      "thirdParty": true
+    },
+    {
+      "name": "101 Magus Feats",
+      "thirdParty": true
+    },
+    {
+      "name": "101 Monster Feats",
+      "thirdParty": true
+    },
+    {
+      "name": "101 Renegade Class Feats",
+      "thirdParty": true
+    },
+    {
+      "name": "A Land Out of Time",
+      "thirdParty": true
+    },
+    {
+      "name": "Advanced Class Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Advanced Class Origins",
+      "thirdParty": false
+    },
+    {
+      "name": "Advanced Feats: The Cavalier's Creed",
+      "thirdParty": true
+    },
+    {
+      "name": "Advanced Feats: The Cavalier's Creed Advanced Feats: The Cavalier's Creed",
+      "thirdParty": true
+    },
+    {
+      "name": "Advanced Feats: The Witch's Brew",
+      "thirdParty": true
+    },
+    {
+      "name": "Advanced Feats: Visions of the Oracle",
+      "thirdParty": true
+    },
+    {
+      "name": "Advanced Feats: Visions of the Oracle. Author: Sigfried Trent",
+      "thirdParty": true
+    },
+    {
+      "name": "Advanced Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Advanced Race Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Advancing with Class: The Druid",
+      "thirdParty": true
+    },
+    {
+      "name": "Adventurer's Armory",
+      "thirdParty": false
+    },
+    {
+      "name": "Adventurer's Armory 2",
+      "thirdParty": false
+    },
+    {
+      "name": "Adventurer's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Adventurer's Handbook: Genius Guide Volume 1",
+      "thirdParty": true
+    },
+    {
+      "name": "Adventurer's Handbook: Genius Guide Volume 1 Adventurer's Handbook: Genius Guide Volume 1",
+      "thirdParty": true
+    },
+    {
+      "name": "Adventuring Classes: A Fistful of Denarii",
+      "thirdParty": true
+    },
+    {
+      "name": "Aethera Campaign Setting: Aetheric Heroes",
+      "thirdParty": true
+    },
+    {
+      "name": "Affordable Arcana: Magic Rings",
+      "thirdParty": true
+    },
+    {
+      "name": "Affordable Arcana: Magic Tattoos",
+      "thirdParty": true
+    },
+    {
+      "name": "Agents of Evil",
+      "thirdParty": false
+    },
+    {
+      "name": "Akashic Classes: Kheshig",
+      "thirdParty": true
+    },
+    {
+      "name": "Akashic Mysteries",
+      "thirdParty": true
+    },
+    {
+      "name": "Akashic Tales: Gifts of Winter Pageantry",
+      "thirdParty": true
+    },
+    {
+      "name": "Alchemy Manual",
+      "thirdParty": false
+    },
+    {
+      "name": "Alien Codex",
+      "thirdParty": true
+    },
+    {
+      "name": "Ancient Kingdoms: Mesopotamia",
+      "thirdParty": true
+    },
+    {
+      "name": "Andoran, Birthplace of Freedom",
+      "thirdParty": false
+    },
+    {
+      "name": "Andoran, Spirit of Liberty",
+      "thirdParty": false
+    },
+    {
+      "name": "Animal Archive",
+      "thirdParty": false
+    },
+    {
+      "name": "Antihero's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "AP91",
+      "thirdParty": false
+    },
+    {
+      "name": "April Augmented",
+      "thirdParty": true
+    },
+    {
+      "name": "Aquatic Adventures",
+      "thirdParty": false
+    },
+    {
+      "name": "Arcane Anthology",
+      "thirdParty": false
+    },
+    {
+      "name": "Arcane Sutras (Sutra)",
+      "thirdParty": true
+    },
+    {
+      "name": "Arcforge Players Compendium",
+      "thirdParty": true
+    },
+    {
+      "name": "Arcforge: Technology Expanded",
+      "thirdParty": true
+    },
+    {
+      "name": "Armor Master's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Art of Magic: Magic and Melee",
+      "thirdParty": true
+    },
+    {
+      "name": "Asian Monsters (PF1)",
+      "thirdParty": true
+    },
+    {
+      "name": "Awesome Ancestries: Embrace Your Inner Monster!",
+      "thirdParty": true
+    },
+    {
+      "name": "Awesome Ancestries: Fantasy Animal Humanoids, Vol. 3 - Born to Be Wild",
+      "thirdParty": true
+    },
+    {
+      "name": "Awesome Ancestries: Lost Legacies, Vol. 2",
+      "thirdParty": true
+    },
+    {
+      "name": "Bastards of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Belkzen, Hold of the Orc Hordes",
+      "thirdParty": false
+    },
+    {
+      "name": "Bestiary 5",
+      "thirdParty": false
+    },
+    {
+      "name": "Bestiary 6",
+      "thirdParty": false
+    },
+    {
+      "name": "Black Markets",
+      "thirdParty": false
+    },
+    {
+      "name": "Bladestorm",
+      "thirdParty": true
+    },
+    {
+      "name": "Blood & Steel, Book 1: The Fighter",
+      "thirdParty": true
+    },
+    {
+      "name": "Blood of Angels",
+      "thirdParty": false
+    },
+    {
+      "name": "Blood of Fiends",
+      "thirdParty": false
+    },
+    {
+      "name": "Blood of Shadows",
+      "thirdParty": false
+    },
+    {
+      "name": "Blood of the Ancients",
+      "thirdParty": false
+    },
+    {
+      "name": "Blood of the Beast",
+      "thirdParty": false
+    },
+    {
+      "name": "Blood of the Coven",
+      "thirdParty": false
+    },
+    {
+      "name": "Blood of the Elements",
+      "thirdParty": false
+    },
+    {
+      "name": "Blood of the Moon",
+      "thirdParty": false
+    },
+    {
+      "name": "Blood of the Night",
+      "thirdParty": false
+    },
+    {
+      "name": "Blood of the Sea",
+      "thirdParty": false
+    },
+    {
+      "name": "Bloodforge",
+      "thirdParty": true
+    },
+    {
+      "name": "Bloodforge Infusions: Esoteric Energies",
+      "thirdParty": true
+    },
+    {
+      "name": "Book of Heroic Races Compendium",
+      "thirdParty": true
+    },
+    {
+      "name": "Book of Heroic Races: Advanced Changelings",
+      "thirdParty": true
+    },
+    {
+      "name": "Book of Heroic Races: Advanced Compendium",
+      "thirdParty": true
+    },
+    {
+      "name": "Book of Heroic Races: Advanced Elans",
+      "thirdParty": true
+    },
+    {
+      "name": "Book of Heroic Races: Advanced Lizardfolk",
+      "thirdParty": true
+    },
+    {
+      "name": "Book of Heroic Races: Advanced Wyvarans",
+      "thirdParty": true
+    },
+    {
+      "name": "Book of Magic: 7 Spellcaster Feats",
+      "thirdParty": true
+    },
+    {
+      "name": "Book of the Damned",
+      "thirdParty": false
+    },
+    {
+      "name": "Book of the Damned - Volume 2: Lords of Chaos",
+      "thirdParty": false
+    },
+    {
+      "name": "Book of the Damned - Volume 3: Horsemen of the Apocalypse",
+      "thirdParty": false
+    },
+    {
+      "name": "Book of the Faithful 1: Power of Prayer",
+      "thirdParty": true
+    },
+    {
+      "name": "Breath of Life: The Archivist",
+      "thirdParty": true
+    },
+    {
+      "name": "Breath of Life: The Beguiler",
+      "thirdParty": true
+    },
+    {
+      "name": "Breath of Life: The Geomancer",
+      "thirdParty": true
+    },
+    {
+      "name": "Breath of Life: The Lathspell",
+      "thirdParty": true
+    },
+    {
+      "name": "Breath of Life: The Marshal",
+      "thirdParty": true
+    },
+    {
+      "name": "Breath of Life: The Scout",
+      "thirdParty": true
+    },
+    {
+      "name": "Breath of Life: The Spelljack",
+      "thirdParty": true
+    },
+    {
+      "name": "Breath of Life: The Vanguard",
+      "thirdParty": true
+    },
+    {
+      "name": "Call of the Wild, Book 1 – The Druid",
+      "thirdParty": true
+    },
+    {
+      "name": "Carnival of Tears",
+      "thirdParty": false
+    },
+    {
+      "name": "Carrion Crown Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Castles of the Inner Sea",
+      "thirdParty": false
+    },
+    {
+      "name": "Champions of Balance",
+      "thirdParty": false
+    },
+    {
+      "name": "Champions of Corruption",
+      "thirdParty": false
+    },
+    {
+      "name": "Champions of Purity",
+      "thirdParty": false
+    },
+    {
+      "name": "Character Options: The Ranger",
+      "thirdParty": true
+    },
+    {
+      "name": "Character Options: The Vigilante",
+      "thirdParty": true
+    },
+    {
+      "name": "Cheliax, Empire of Devils",
+      "thirdParty": false
+    },
+    {
+      "name": "Chronicle of Legends",
+      "thirdParty": false
+    },
+    {
+      "name": "Chronicle of the Righteous",
+      "thirdParty": false
+    },
+    {
+      "name": "Cities of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "City of Strangers",
+      "thirdParty": false
+    },
+    {
+      "name": "Clash of the Kingslayers",
+      "thirdParty": false
+    },
+    {
+      "name": "Classic Horrors Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Classic Monsters Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Classic Treasures Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Cohorts and Companions",
+      "thirdParty": false
+    },
+    {
+      "name": "Concordance of Rivals",
+      "thirdParty": false
+    },
+    {
+      "name": "Conquest of Bloodsworn Vale",
+      "thirdParty": false
+    },
+    {
+      "name": "Construct Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Contact Other Plane: World of Final Adventures II",
+      "thirdParty": true
+    },
+    {
+      "name": "Contact Other Plane: World of the Old Scrolls I",
+      "thirdParty": true
+    },
+    {
+      "name": "Council of Thieves Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Crown of the Kobold King",
+      "thirdParty": false
+    },
+    {
+      "name": "Crucible of Chaos",
+      "thirdParty": false
+    },
+    {
+      "name": "Cult of the Ebon Destroyers",
+      "thirdParty": false
+    },
+    {
+      "name": "Curse of the Crimson Throne (PFRPG)",
+      "thirdParty": false
+    },
+    {
+      "name": "Curse of the Crimson Throne Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Curse of the Riven Sky",
+      "thirdParty": false
+    },
+    {
+      "name": "Dark Markets - A Guide to Katapesh",
+      "thirdParty": false
+    },
+    {
+      "name": "Daughters of Fury",
+      "thirdParty": false
+    },
+    {
+      "name": "Dead Man's Chest",
+      "thirdParty": true
+    },
+    {
+      "name": "Demon Hunter's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Demons Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Dirty Tactics Toolbox",
+      "thirdParty": false
+    },
+    {
+      "name": "Disciple's Doctrine",
+      "thirdParty": false
+    },
+    {
+      "name": "Distant Realms",
+      "thirdParty": false
+    },
+    {
+      "name": "Distant Shores",
+      "thirdParty": false
+    },
+    {
+      "name": "Distant Worlds",
+      "thirdParty": false
+    },
+    {
+      "name": "Divine Anthology",
+      "thirdParty": false
+    },
+    {
+      "name": "Down the Blighted Path",
+      "thirdParty": false
+    },
+    {
+      "name": "Dragon Empires Gazetteer",
+      "thirdParty": false
+    },
+    {
+      "name": "Dragon Empires Primer",
+      "thirdParty": false
+    },
+    {
+      "name": "Dragons Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Dragonslayer's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Druma, Profit and Prophecy",
+      "thirdParty": false
+    },
+    {
+      "name": "Dungeon Denizens Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Dungeoneer's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Dungeons of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Dwarves of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Dwellers in Dream: The Briarborn",
+      "thirdParty": true
+    },
+    {
+      "name": "Echoes of the Storm: Player's Guide",
+      "thirdParty": true
+    },
+    {
+      "name": "Eldryn",
+      "thirdParty": true
+    },
+    {
+      "name": "Elemental Master's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Elves of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Entombed with the Pharaohs",
+      "thirdParty": false
+    },
+    {
+      "name": "Extended Sutra (Sutra)",
+      "thirdParty": true
+    },
+    {
+      "name": "Extra Sutra Casting (Sutra)",
+      "thirdParty": true
+    },
+    {
+      "name": "Extra Sutra Known (Sutra)",
+      "thirdParty": true
+    },
+    {
+      "name": "Faction Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Faiths and Philosophies",
+      "thirdParty": false
+    },
+    {
+      "name": "Faiths of Balance",
+      "thirdParty": false
+    },
+    {
+      "name": "Faiths of Corruption",
+      "thirdParty": false
+    },
+    {
+      "name": "Faiths of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Faiths of Purity",
+      "thirdParty": false
+    },
+    {
+      "name": "Familiar Folio",
+      "thirdParty": false
+    },
+    {
+      "name": "Fantastic Feats of Leadership",
+      "thirdParty": true
+    },
+    {
+      "name": "Favored Sutra (Sutra)",
+      "thirdParty": true
+    },
+    {
+      "name": "Feast of Dust",
+      "thirdParty": false
+    },
+    {
+      "name": "Feats 101",
+      "thirdParty": true
+    },
+    {
+      "name": "Feats 101 Advanced Feats: Secrets of the Alchemist",
+      "thirdParty": true
+    },
+    {
+      "name": "Feats 101 Feats 101",
+      "thirdParty": true
+    },
+    {
+      "name": "Feats Unbound",
+      "thirdParty": true
+    },
+    {
+      "name": "Flight of the Red Raven",
+      "thirdParty": false
+    },
+    {
+      "name": "Forgotten Core Feats",
+      "thirdParty": true
+    },
+    {
+      "name": "Forgotten Foes",
+      "thirdParty": true
+    },
+    {
+      "name": "From Shore to Sea",
+      "thirdParty": false
+    },
+    {
+      "name": "From the Deep Adventure Path #1: Uncertain Futures",
+      "thirdParty": true
+    },
+    {
+      "name": "Galactic Bestiary 20",
+      "thirdParty": true
+    },
+    {
+      "name": "Galactic Bestiary 4",
+      "thirdParty": true
+    },
+    {
+      "name": "Gallery of Evil",
+      "thirdParty": false
+    },
+    {
+      "name": "Gallows of Madness",
+      "thirdParty": false
+    },
+    {
+      "name": "GameMastery Condition Cards",
+      "thirdParty": false
+    },
+    {
+      "name": "Gamemastery Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "GameMastery Module J2: Guardians of Dragonfall",
+      "thirdParty": false
+    },
+    {
+      "name": "Giant Hunter's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Giants Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Giantslayer Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Gnomes of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Goblins of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Gods and Magic",
+      "thirdParty": false
+    },
+    {
+      "name": "Grimoire Viperian: A Tome of Exotic Lore",
+      "thirdParty": true
+    },
+    {
+      "name": "Guardians of Dragonfall",
+      "thirdParty": false
+    },
+    {
+      "name": "Guide to Darkmoon Vale",
+      "thirdParty": false
+    },
+    {
+      "name": "Guide to Korvosa",
+      "thirdParty": false
+    },
+    {
+      "name": "Guide to the River Kingdoms",
+      "thirdParty": false
+    },
+    {
+      "name": "Halflings of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Haunted Heroes Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Healer's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Heaven Unleashed",
+      "thirdParty": false
+    },
+    {
+      "name": "Hell Unleashed",
+      "thirdParty": false
+    },
+    {
+      "name": "Hell's Rebels Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Hell's Vengeance Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Hero Guide – Feats of Martial Power",
+      "thirdParty": true
+    },
+    {
+      "name": "Heroes from the Fringe",
+      "thirdParty": false
+    },
+    {
+      "name": "Heroes of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Heroes of the Darklands",
+      "thirdParty": false
+    },
+    {
+      "name": "Heroes of the High Court",
+      "thirdParty": false
+    },
+    {
+      "name": "Heroes of the Middle Kingdoms",
+      "thirdParty": true
+    },
+    {
+      "name": "Heroes of the Streets",
+      "thirdParty": false
+    },
+    {
+      "name": "Heroes of the Wild",
+      "thirdParty": false
+    },
+    {
+      "name": "Hollow's Last Hope",
+      "thirdParty": false
+    },
+    {
+      "name": "Horror Adventures",
+      "thirdParty": false
+    },
+    {
+      "name": "Horror Realms",
+      "thirdParty": false
+    },
+    {
+      "name": "Humanoid Bestiary",
+      "thirdParty": true
+    },
+    {
+      "name": "Humans of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Hungry are the Dead",
+      "thirdParty": false
+    },
+    {
+      "name": "Icebound",
+      "thirdParty": true
+    },
+    {
+      "name": "In the Company of Angels",
+      "thirdParty": true
+    },
+    {
+      "name": "In the Company of Henge",
+      "thirdParty": true
+    },
+    {
+      "name": "In the Company of Kappa",
+      "thirdParty": true
+    },
+    {
+      "name": "In the Company of Tengu",
+      "thirdParty": true
+    },
+    {
+      "name": "Infernal Specialist (Sutra)",
+      "thirdParty": true
+    },
+    {
+      "name": "Ink & Quill",
+      "thirdParty": true
+    },
+    {
+      "name": "Inkantations",
+      "thirdParty": true
+    },
+    {
+      "name": "Inner Sea Combat",
+      "thirdParty": false
+    },
+    {
+      "name": "Inner Sea Faiths",
+      "thirdParty": false
+    },
+    {
+      "name": "Inner Sea Gods",
+      "thirdParty": false
+    },
+    {
+      "name": "Inner Sea Intrigue",
+      "thirdParty": false
+    },
+    {
+      "name": "Inner Sea Magic",
+      "thirdParty": false
+    },
+    {
+      "name": "Inner Sea Monster Codex",
+      "thirdParty": false
+    },
+    {
+      "name": "Inner Sea Primer",
+      "thirdParty": false
+    },
+    {
+      "name": "Inner Sea Races",
+      "thirdParty": false
+    },
+    {
+      "name": "Inner Sea Taverns",
+      "thirdParty": false
+    },
+    {
+      "name": "Inner Sea Temples",
+      "thirdParty": false
+    },
+    {
+      "name": "Inner Sea World Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Into the Wilds: Primalist",
+      "thirdParty": true
+    },
+    {
+      "name": "Ire of the Storm",
+      "thirdParty": false
+    },
+    {
+      "name": "Iron Gods Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Ironfang Invasion Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Isles of the Shackles",
+      "thirdParty": false
+    },
+    {
+      "name": "Jade Regent Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Kingmaker Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Kitsune Compendium",
+      "thirdParty": true
+    },
+    {
+      "name": "Knights of the Inner Sea",
+      "thirdParty": false
+    },
+    {
+      "name": "Kobold Quarterly issue 14",
+      "thirdParty": true
+    },
+    {
+      "name": "Kobold Quarterly Web Site",
+      "thirdParty": true
+    },
+    {
+      "name": "Kobolds of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Lands of the Linnorm Kings",
+      "thirdParty": false
+    },
+    {
+      "name": "Legacy of Dragons",
+      "thirdParty": false
+    },
+    {
+      "name": "Legacy of Fire Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Legacy of the First World",
+      "thirdParty": false
+    },
+    {
+      "name": "Legendary Alchemists",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Bards",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Bloodragers",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Cavaliers",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Classes Cartomancer",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Classes: Cloak & Dagger",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Classes: Defenders of the Faith",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Classes: Masters of the Wild",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Classses: Sagitta Stellaris",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Clerics",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Hunters",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Levels: Deific Bestiary",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Magus",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Mesmerists",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Ninjas",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Occultists",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Oracles",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Planet Adventure Path",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Prestige",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Races: Wyrmtouched",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Rangers",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Rogues",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Samurai",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Slayers",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Summoners",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Witches",
+      "thirdParty": true
+    },
+    {
+      "name": "Legendary Witches Expanded",
+      "thirdParty": true
+    },
+    {
+      "name": "Liber Vampyr",
+      "thirdParty": true
+    },
+    {
+      "name": "Like a Boss",
+      "thirdParty": true
+    },
+    {
+      "name": "Little Red Goblin Games Racial Guide 4: Nontradational Races",
+      "thirdParty": true
+    },
+    {
+      "name": "Little Red Goblin Games Racial Guide 5: Tradational Races",
+      "thirdParty": true
+    },
+    {
+      "name": "Little Red Goblin Games Racial Guide 6: Classice Monsters",
+      "thirdParty": true
+    },
+    {
+      "name": "Lords of the Night",
+      "thirdParty": true
+    },
+    {
+      "name": "Lords of the Wild",
+      "thirdParty": true
+    },
+    {
+      "name": "Lost Champions: Mountebank",
+      "thirdParty": true
+    },
+    {
+      "name": "Lost Cities of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Lost Kingdoms",
+      "thirdParty": false
+    },
+    {
+      "name": "Lost Lore: Eminent Domains, Forces & Philosophies –",
+      "thirdParty": true
+    },
+    {
+      "name": "Lost Lore: Horses of the Wild –",
+      "thirdParty": true
+    },
+    {
+      "name": "Lost Lore: Town of Glory –",
+      "thirdParty": true
+    },
+    {
+      "name": "Lost Treasures",
+      "thirdParty": false
+    },
+    {
+      "name": "Magic of Thassilon (Web Enhancement)",
+      "thirdParty": false
+    },
+    {
+      "name": "Magic Tactics Toolbox",
+      "thirdParty": false
+    },
+    {
+      "name": "Magical Marketplace",
+      "thirdParty": false
+    },
+    {
+      "name": "Maniac Character Class",
+      "thirdParty": true
+    },
+    {
+      "name": "Martial Arts Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Mechanical Monsters",
+      "thirdParty": true
+    },
+    {
+      "name": "Mediterranean Monsters (Pathfinder RPG)",
+      "thirdParty": true
+    },
+    {
+      "name": "Mega-Feats Revisited",
+      "thirdParty": true
+    },
+    {
+      "name": "Melee Tactics Toolbox",
+      "thirdParty": false
+    },
+    {
+      "name": "Merchant's Manifest",
+      "thirdParty": false
+    },
+    {
+      "name": "Misfit Monsters Redeemed",
+      "thirdParty": false
+    },
+    {
+      "name": "Monster Codex",
+      "thirdParty": false
+    },
+    {
+      "name": "Monster Hunter's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Monster Summoner's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Mummy's Mask Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Murder's Mark",
+      "thirdParty": false
+    },
+    {
+      "name": "Mystery Monsters Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Mythic Adventures",
+      "thirdParty": false
+    },
+    {
+      "name": "Mythic Minis 1: Monster Feats",
+      "thirdParty": true
+    },
+    {
+      "name": "Mythic Origins",
+      "thirdParty": false
+    },
+    {
+      "name": "Mythos Monsters (PF1)",
+      "thirdParty": true
+    },
+    {
+      "name": "Necroknight Compendium",
+      "thirdParty": true
+    },
+    {
+      "name": "New Argonauts",
+      "thirdParty": true
+    },
+    {
+      "name": "New Paths: The Expanded White Necromancer",
+      "thirdParty": true
+    },
+    {
+      "name": "Occult Adventures",
+      "thirdParty": false
+    },
+    {
+      "name": "Occult Bestiary",
+      "thirdParty": false
+    },
+    {
+      "name": "Occult Mysteries",
+      "thirdParty": false
+    },
+    {
+      "name": "Occult Origins",
+      "thirdParty": false
+    },
+    {
+      "name": "Occult Realms",
+      "thirdParty": false
+    },
+    {
+      "name": "Orcs of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Osirion, Land of the Pharaohs",
+      "thirdParty": false
+    },
+    {
+      "name": "Osirion, Legacy of the Pharaohs",
+      "thirdParty": false
+    },
+    {
+      "name": "Pact Magic Unbound, Vol. 1",
+      "thirdParty": true
+    },
+    {
+      "name": "Pact Magic Unbound: Grimoire of Lost Souls",
+      "thirdParty": true
+    },
+    {
+      "name": "Paizo Blog - Ultimate Cantrips",
+      "thirdParty": false
+    },
+    {
+      "name": "Paizo Blog: Hodgepodge from the Grand Lodge",
+      "thirdParty": false
+    },
+    {
+      "name": "Paizo Blog: The Gauntlet Will Be Ours!",
+      "thirdParty": false
+    },
+    {
+      "name": "PAP25",
+      "thirdParty": false
+    },
+    {
+      "name": "Paragon Hags & Occult Rituals",
+      "thirdParty": true
+    },
+    {
+      "name": "Path of Iron",
+      "thirdParty": true
+    },
+    {
+      "name": "Path of Shadows",
+      "thirdParty": true
+    },
+    {
+      "name": "Path of the Hellknight",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #100: A Song of Silver",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #101: The Kintargo Contract",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #102: Breaking the Bones of Hell",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #103: The Hellfire Compact",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #104: Wrath of Thrune",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #105: The Inferno Gate",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #106: For Queen and Empire",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #107: Scourge of the Godclaw",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #108: Hell Comes to Westcrown",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #109: In Search of Sanity",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #10: A History of Ashes",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #110: The Thrushmoor Terror",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #111: Dreams of the Yellow King",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #112: The Whisper Out of Time",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #113: What Grows Within",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #114: Black Stars Beckon",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #115: Trail of the Hunted",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #116: Fangs of War",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #117: Assault on Longshadow",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #118: Siege of Stone",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #119: Prisoners of the Blight",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #11: Skeletons of Scarwall",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #120: Vault of the Onyx Citadel",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #121: The Lost Outpost",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #122: Into the Shattered Continent",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #123: The Flooded Cathedral",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #124: City in the Deep",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #125: Tower of the Drowned Dead",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #126: Beyond the Veiled Past",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #127: Crownfall",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #128: Songbird, Scion, Saboteur",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #131: The Reaper's Right Hand",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #132: The Six-Legend Soul",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #134: It Came from Hollow Mountain",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #135: Runeplague",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #136: Temple of the Peacock Spirit",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #137: The City Outside of Time",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #138: Rise of New Thassilon",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #139: The Dead Road",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #140: Eulogy for Roslar's Coffer",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #141: Last Watch",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #143: Borne by the Sun's Grace",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #144: Midwives to Death",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #14: Children of the Void",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #15: The Armageddon Echo",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #16: Endless Night",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #18: Descent into Midnight",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #19: Howl of the Carrion King",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #22: The End of Eternity",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #24: The Final Wish",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #25: The Bastards of Erebus",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #26: The Sixfold Trial",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #27: What Lies in Dust",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #28: The Infernal Syndrome",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #29: Mother of Flies",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #2: The Skinsaw Murders",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #30: The Twice-Damned Prince",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #31: Stolen Land",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #34: Blood for Blood",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #35: War of the River Kings",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #36: Sound of a Thousand Screams",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #38: Racing to Ruin",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #39: The City of Seven Spears",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #42: Sanctum of the Serpent God",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #43: Haunting of Harrowstone",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #45: Broken Moon",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #46: Wake of the Watcher",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #47: Ashes at Dawn",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #48: Shadows of Gallowspire",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #49: The Brinewall Legacy",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #50: Night of Frozen Shadows",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #51: The Hungry Storm",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #52: Forest of Spirits",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #53: Tide of Honor",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #54: The Empty Throne",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #55: The Wormwood Mutiny",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #56: Raiders of the Fever Sea",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #57: Tempest Rising",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #58: Island of Empty Eyes",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #59: The Price of Infamy",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #5: Sins of the Saviors",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #60: From Hell's Heart",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #61: Shards of Sin",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #62: Curse of the Lady's Light",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #63: The Asylum Stone",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #64: Beyond the Doomsday Door",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #65: Into the Nightmare Rift",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #66: The Dead Heart of Xin",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #67: The Snows of Summer",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #68: The Shackled Hut",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #69: Maiden, Mother, Crone",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #70: The Frozen Stars",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #71: Rasputin Must Die!",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #72: The Witch Queen's Revenge",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #73: The Worldwound Incursion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #74: Sword of Valor",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #75: Demon's Heresy",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #76: The Midnight Isles",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #77: Herald of the Ivory Labyrinth",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #78: City of Locusts",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #79: The Half-Dead City",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #7: Edge of Anarchy",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #80: Empty Graves",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #81: Shifting Sands",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #82: Secrets of the Sphinx",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #83: The Slave Trenches of Hakotep",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #84: Pyramid of the Sky Pharaoh",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #85: Fires of Creation",
+      "thirdParty": true
+    },
+    {
+      "name": "Pathfinder #86: Lords of Rust",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #87: The Choking Tower",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #88: Valley of the Brain Collectors",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #89: Palace of Fallen Stars",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #8: Seven Days to the Grave",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #90: The Divinity Drive",
+      "thirdParty": true
+    },
+    {
+      "name": "Pathfinder #91: Battle of Bloodmarch Hills",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #92: The Hill Giant's Pledge",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #93: Forge of the Giant God",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #94: Ice Tomb of the Giant Queen",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #95: Anvil of Fire",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #96: Shadow of the Storm Tyrant",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder #99: Dance of the Damned",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder 14: Children of the Void",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder 15: The Armageddon Echo",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder 16: Endless Night",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder 19: Howl of the Carrion King",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder 24: The Final Wish",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder 26: The Sixfold Trial Pathfinder 26: The Sixfold Trial",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder 29: Mother of Flies",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder 5: Sins of the Saviors",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #110: The Thrushmoor Terror",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #113: What Grows Within",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #115: Trail of the Hunted",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #116: Fangs of War",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #117: Assault on Longshadow",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #119: Prisoner of the Blight",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #124: City in the Deep",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #131: The Reaper's Right Hand",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #134: It Came from Hollow Mountain",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #139: The Dead Roads",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #140: Eulogy for Roslar's Coffer",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #143: Borne by the Sun's Grace",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #28: The Infernal Syndrome",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #35: War of the River Kings",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #42: Sanctum of the Serpent God",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #55: The Wormwood Mutiny",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #69: Maiden, Mother, Crone",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #71: Rasputin Must Die!",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #71: Rasputin Must Die! (Reign of Winter 5 of 6)",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #74: Sword of Valor",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #78: City of Locusts",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #80: Empty Graves",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #81: Shifting Sands",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #82: Secrets of the Sphinx",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #84: Pyramid of the Sky Pharaoh",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #86: Lords of Rust",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #89: Palace of Fallen Stars",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #91: Battle of Bloodmarch Hill",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #93: Forge of the Giant God",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path #95: Anvil of Fire",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path volume #30: The Twice-Damned Prince",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path: Curse of the Crimson Throne (PFRPG)",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Adventure Path: Rise of the Runelords Anniversary Edition",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Andoran, Birthplace of Freedom",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Aquatic Adventures",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Chronicle of the Righteous",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Construct Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Demons Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Distant Realms",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Distant Shores",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Distant Worlds",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Druma, Profit and Prophecy",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Dungeons of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Faiths of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Giants Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Inner Sea Combat",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Inner Sea Gods",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Inner Sea Intrigue",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Inner Sea Magic",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Inner Sea Magic Pathfinder Campaign Setting: Inner Sea Magic",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Inner Sea Monster Codex",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Inner Sea Races",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Inner Sea Taverns",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Inner Sea Temples",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Lords of Chaos: Book of the Damned, Vol. 2",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Lost Kingdoms",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Occult Mysteries",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Occult Realms",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Osirion, Legacy of Pharaohs",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Path of the Hellknight",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Pathfinder Society Field Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Planes of Power",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Qadira, Jewel of the East",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Rival Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: Technology Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: The First World, Realm of the Fey",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Campaign Setting: The Inner Sea World Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles Campaign Setting",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles Seekers of Secrets Paizo Publishing, LLC",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles – Cheliax: Empire of Devils",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: Cities of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: City of Strangers",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: Classic Treasures Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: Dark Markets, A Guide to Katapesh",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: Dragons Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: Dungeon Denizens Revisited",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: Faction Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: Gods and Magic",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: Guide to the River Kingdoms",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: Princes of Darkness, Book of the Damned Vol. I",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Chronicles: Seekers of Secrets",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Comics #10",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Comics #12",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Adventurer's Armory",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Andoran, Spirit of Liberty",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Cheliax, Empire of Devils>",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Dwarves of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Gnomes of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Legacy of Fire Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Orcs of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Osirion, Land of Pharaohs",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Sargava, the Lost Colony",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Second Darkness Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Companion: Taldor, Echoes of Glory",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Module: The Dragon's Demand",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Advanced Class Origins",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Adventurer's Armory 2",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Agents of Evil",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Alchemy Manual",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Animal Archive",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Antihero's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Arcane Anthology",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Armor Master's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Bastards of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Black Markets",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Blood of Angels",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Blood of Fiends",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Blood of Shadows",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Blood of the Ancients",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Blood of the Beast",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Blood of the Coven",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Blood of the Elements",
+      "thirdParty": true
+    },
+    {
+      "name": "Pathfinder Player Companion: Blood of the Moon",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Blood of the Night",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Blood of the Sea",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Champions of Balance",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Champions of Corruption",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Champions of Purity",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Chronicle of Legends",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Cohorts and Companions",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Demon Hunter's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Dirty Tactics Toolbox",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Disciple's Doctrine",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Divine Anthology",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Dragon Empires Primer",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Dragonslayer's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Dungeoneer's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Elemental Master's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Faiths & Philosophies",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Faiths of Corruption",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Faiths of Purity",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Familiar Folio",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Giant Hunter's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Goblins of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Halflings of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Halflings of Golarion Pathfinder Player Companion: Halflings of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Haunted Heroes Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Healer's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Heroes from the Fringe",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Heroes of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Heroes of the Darklands",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Heroes of the High Court",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Heroes of the Street",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Heroes of the Wild",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Humans of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Knights of the Inner Sea",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Kobolds of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Legacy of Dragons",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Legacy of the First World",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Magic Tactics Toolbox",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Magical Marketplace",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Martial Arts Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Melee Tactics Toolbox",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Monster Hunter's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Monster Summoner's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Mythic Origins",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Occult Origins",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Pathfinder Society Primer",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Paths of the Righteous",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: People of the North",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: People of the River",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: People of the Sands",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: People of the Stars",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: People of the Wastes",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Pirates of the Inner Sea",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Plane-Hopper's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Potions & Poisons",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Psychic Anthology",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Quests & Campaigns",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Ranged Tactics Toolbox",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Spymaster's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: The Harrow Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Undead Slayer's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Varisia, Birthplace of Legends",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Weapon Master's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Player Companion: Wilderness Origins",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Advanced Race Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Adventurer's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Bestiary 2",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Book of the Damned",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Core Rulebook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Horror Adventures",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Monster Codex",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Mythic Adventures",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Occult Adventures",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Pathfinder Unchained",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Planar Adventures",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Ultimate Combat",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Ultimate Intrigue",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Ultimate Wilderness",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game Villain Codex",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game: Advanced Class Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game: Niobe",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game: The World of Vampire Hunter D",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game: Ultimate Campaign",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game: Ultimate Combat.",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game: Ultimate Magic",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Roleplaying Game: Villain Codex",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder RPG Bestiary",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder RPG Core Rulebook",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Society Field Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Society Primer",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder Unchained",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Goblins #1",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Hollow Mountain #1",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Hollow Mountain #4",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Origins #6: Ezren",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Runescars #1",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Runescars #4",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Spiral of Bones #3",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Spiral of Bones #4",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Spiral of Bones #5",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Worldscape #1",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Worldscape #2",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Worldscape #3",
+      "thirdParty": false
+    },
+    {
+      "name": "Pathfinder: Worldscape #4",
+      "thirdParty": false
+    },
+    {
+      "name": "Paths of Prestige",
+      "thirdParty": false
+    },
+    {
+      "name": "Paths of the Righteous",
+      "thirdParty": false
+    },
+    {
+      "name": "PCh:FG",
+      "thirdParty": false
+    },
+    {
+      "name": "PCS:IST",
+      "thirdParty": false
+    },
+    {
+      "name": "People of the North",
+      "thirdParty": false
+    },
+    {
+      "name": "People of the River",
+      "thirdParty": false
+    },
+    {
+      "name": "People of the Sands",
+      "thirdParty": false
+    },
+    {
+      "name": "People of the Stars",
+      "thirdParty": false
+    },
+    {
+      "name": "People of the Wastes",
+      "thirdParty": false
+    },
+    {
+      "name": "PFS Guide to Organized Play 6.0",
+      "thirdParty": false
+    },
+    {
+      "name": "Pirates of the Inner Sea",
+      "thirdParty": false
+    },
+    {
+      "name": "Planar Adventures",
+      "thirdParty": false
+    },
+    {
+      "name": "Plane-Hopper's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Planes of Power",
+      "thirdParty": false
+    },
+    {
+      "name": "Player Paraphernalia #1 Feats New and Reworked",
+      "thirdParty": true
+    },
+    {
+      "name": "Player Paraphernalia #28 Old School Paladin , New Paladin Archetype",
+      "thirdParty": true
+    },
+    {
+      "name": "Player Paraphernalia #28 Old School Ranger, New Ranger Archetype",
+      "thirdParty": true
+    },
+    {
+      "name": "Plunder and Peril",
+      "thirdParty": false
+    },
+    {
+      "name": "Polymorph: Spiritual Ally",
+      "thirdParty": true
+    },
+    {
+      "name": "Polymorph: The Dealer",
+      "thirdParty": true
+    },
+    {
+      "name": "Polymorph: The Martial Master",
+      "thirdParty": true
+    },
+    {
+      "name": "Potions and Poisons",
+      "thirdParty": false
+    },
+    {
+      "name": "PPC:AM",
+      "thirdParty": false
+    },
+    {
+      "name": "PPC:BoF",
+      "thirdParty": false
+    },
+    {
+      "name": "PPC:DTT",
+      "thirdParty": false
+    },
+    {
+      "name": "PPC:HotHC",
+      "thirdParty": false
+    },
+    {
+      "name": "PPC:ISI",
+      "thirdParty": false
+    },
+    {
+      "name": "PPC:KotIS",
+      "thirdParty": false
+    },
+    {
+      "name": "PPC:MAH",
+      "thirdParty": false
+    },
+    {
+      "name": "PPC:MM",
+      "thirdParty": false
+    },
+    {
+      "name": "PPC:OO",
+      "thirdParty": false
+    },
+    {
+      "name": "PPC:WMH",
+      "thirdParty": false
+    },
+    {
+      "name": "Prayer - Gods of Balance and Heroes",
+      "thirdParty": true
+    },
+    {
+      "name": "PRG:UC",
+      "thirdParty": false
+    },
+    {
+      "name": "PRG:UM Pathfinder Roleplaying Game: Ultimate Magic",
+      "thirdParty": false
+    },
+    {
+      "name": "PRPG Core Rulebook",
+      "thirdParty": false
+    },
+    {
+      "name": "Psychic Anthology",
+      "thirdParty": false
+    },
+    {
+      "name": "PZO1126",
+      "thirdParty": false
+    },
+    {
+      "name": "PZO1134",
+      "thirdParty": false
+    },
+    {
+      "name": "PZO9465",
+      "thirdParty": false
+    },
+    {
+      "name": "PZO9486",
+      "thirdParty": false
+    },
+    {
+      "name": "Qadira, Gateway to the East",
+      "thirdParty": false
+    },
+    {
+      "name": "Qadira, Jewel of the East",
+      "thirdParty": false
+    },
+    {
+      "name": "Quests and Campaigns",
+      "thirdParty": false
+    },
+    {
+      "name": "Ranged Tactics Toolbox",
+      "thirdParty": false
+    },
+    {
+      "name": "Realm of the Fellnight Queen",
+      "thirdParty": false
+    },
+    {
+      "name": "Reign of Winter Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Remarkable Races",
+      "thirdParty": true
+    },
+    {
+      "name": "Remarkable Races Remarkable Races",
+      "thirdParty": true
+    },
+    {
+      "name": "Remarkable Races: Compendium of Unusual PC Races, Pathway to Adventure Edition",
+      "thirdParty": true
+    },
+    {
+      "name": "Return of the Runelords Players Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Revenge of the Kobold King",
+      "thirdParty": false
+    },
+    {
+      "name": "Ridiculous Races and Crazy Classes",
+      "thirdParty": true
+    },
+    {
+      "name": "Rise of the Runelords Anniversary Edition",
+      "thirdParty": false
+    },
+    {
+      "name": "Rise of the Runelords Anniversary Edition Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Rise of the Runelords Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Rival Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Rivers into Darkness",
+      "thirdParty": false
+    },
+    {
+      "name": "Rogue Glory",
+      "thirdParty": true
+    },
+    {
+      "name": "Ruins of Azlant Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "S-Class Characters: Symbiants",
+      "thirdParty": true
+    },
+    {
+      "name": "Sandy Petersen's Cthulhu Mythos",
+      "thirdParty": true
+    },
+    {
+      "name": "Sargava, the Lost Colony",
+      "thirdParty": false
+    },
+    {
+      "name": "Savage Company",
+      "thirdParty": true
+    },
+    {
+      "name": "Sea Monsters (PF1)",
+      "thirdParty": true
+    },
+    {
+      "name": "Second Darkness Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Seekers of Secrets",
+      "thirdParty": false
+    },
+    {
+      "name": "Seers of the Drowned City",
+      "thirdParty": false
+    },
+    {
+      "name": "Sentence of the Sinlords",
+      "thirdParty": true
+    },
+    {
+      "name": "Serpent's Skull Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Seven Swords of Sin",
+      "thirdParty": false
+    },
+    {
+      "name": "Shadowsfall: Shadow Plane Player's Companion",
+      "thirdParty": true
+    },
+    {
+      "name": "Shattered Star Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Shibaten of Porphyra",
+      "thirdParty": true
+    },
+    {
+      "name": "Ships of the Inner Sea",
+      "thirdParty": false
+    },
+    {
+      "name": "Skull and Shackles Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Speaker: A Pathfinder 1e class designed for use in the Lost Lands",
+      "thirdParty": true
+    },
+    {
+      "name": "Spymaster's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Strange Aeons Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Strategists and Tacticians",
+      "thirdParty": true
+    },
+    {
+      "name": "Sutra Magic",
+      "thirdParty": true
+    },
+    {
+      "name": "Taldor, Echoes of Glory",
+      "thirdParty": false
+    },
+    {
+      "name": "Tears at Bitter Manor",
+      "thirdParty": false
+    },
+    {
+      "name": "Technology Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "The Antipaladin's Almanac",
+      "thirdParty": true
+    },
+    {
+      "name": "The Artisan",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #10: More Mythology",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #11: Technology",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #12: Bloodlines",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #18: Fun",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #19: The Arts",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #1: Divinity",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #2 - Elements",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #3: Nature",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #5: Dragons",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #6: Magic",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #7: Fey",
+      "thirdParty": true
+    },
+    {
+      "name": "The Bardess' Library #8: Forgotten Classes",
+      "thirdParty": true
+    },
+    {
+      "name": "The Book of Divine Magic",
+      "thirdParty": true
+    },
+    {
+      "name": "The Book of Many Things",
+      "thirdParty": true
+    },
+    {
+      "name": "The Book of Many Things Volume 2: Shattered Worlds",
+      "thirdParty": true
+    },
+    {
+      "name": "The Book of Many Things Volume 3: Realms of Magic",
+      "thirdParty": true
+    },
+    {
+      "name": "The Construct Companion",
+      "thirdParty": true
+    },
+    {
+      "name": "The Demon Within",
+      "thirdParty": false
+    },
+    {
+      "name": "The Direlock Base Class",
+      "thirdParty": true
+    },
+    {
+      "name": "The Dragon's Demand",
+      "thirdParty": false
+    },
+    {
+      "name": "The Emerald Spire Superdungeon",
+      "thirdParty": false
+    },
+    {
+      "name": "The Expanded Spell-less Ranger",
+      "thirdParty": true
+    },
+    {
+      "name": "The First World, Realm of the Fey",
+      "thirdParty": false
+    },
+    {
+      "name": "The Fisherking",
+      "thirdParty": true
+    },
+    {
+      "name": "The Four Horsemen Present: Character Options – Gods in the Void",
+      "thirdParty": true
+    },
+    {
+      "name": "The Genius Guide to the Magister",
+      "thirdParty": true
+    },
+    {
+      "name": "The Genius Guide To: Air Magic",
+      "thirdParty": true
+    },
+    {
+      "name": "The Genius Guide To: Feats of Critical Combat",
+      "thirdParty": true
+    },
+    {
+      "name": "The Genius Guide To: Feats of Metamagic",
+      "thirdParty": true
+    },
+    {
+      "name": "The Genius Guide To: Feats of Metamagic The Genius Guide To: Feats of Metamagic",
+      "thirdParty": true
+    },
+    {
+      "name": "The Genius Guide To: Races of Hoof and Horn",
+      "thirdParty": true
+    },
+    {
+      "name": "The Genius Guide To: The Armiger",
+      "thirdParty": true
+    },
+    {
+      "name": "The Genius Guide To: The Mystic Godling",
+      "thirdParty": true
+    },
+    {
+      "name": "The Genius Guide To: The Mystic Godling The Genius Guide To: The Mystic Godling",
+      "thirdParty": true
+    },
+    {
+      "name": "The Genius Guide To: The Vanguard",
+      "thirdParty": true
+    },
+    {
+      "name": "The Harrow Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "The House on Hook Street",
+      "thirdParty": false
+    },
+    {
+      "name": "The Jötunfolk Guide to the Jötunfolk of Rhune: Dawn of Twilight",
+      "thirdParty": true
+    },
+    {
+      "name": "The Lost Lands World Setting: Pathfinder Rules Addendum",
+      "thirdParty": true
+    },
+    {
+      "name": "The Malefactor Base Class",
+      "thirdParty": true
+    },
+    {
+      "name": "The Midnight Mirror",
+      "thirdParty": false
+    },
+    {
+      "name": "The Moonscar",
+      "thirdParty": false
+    },
+    {
+      "name": "The New Argonauts",
+      "thirdParty": true
+    },
+    {
+      "name": "The New Argonauts: Serpent Archer",
+      "thirdParty": true
+    },
+    {
+      "name": "The Ossuarite",
+      "thirdParty": true
+    },
+    {
+      "name": "The Pact Stone Pyramid",
+      "thirdParty": false
+    },
+    {
+      "name": "The Pathfinder Chronicles Campaign Setting",
+      "thirdParty": false
+    },
+    {
+      "name": "The Pathfinder Chronicles Campaign Setting The Pathfinder Chronicles Campaign Setting",
+      "thirdParty": false
+    },
+    {
+      "name": "The Scholar",
+      "thirdParty": true
+    },
+    {
+      "name": "The Secrets of Adventuring",
+      "thirdParty": true
+    },
+    {
+      "name": "The Secrets of the Divine: Adventure, Earth, Magic & Water",
+      "thirdParty": true
+    },
+    {
+      "name": "The Secrets of the Magus The Secrets of the Magus",
+      "thirdParty": true
+    },
+    {
+      "name": "The Soulforge: Spirit of a Hero",
+      "thirdParty": true
+    },
+    {
+      "name": "The Tinker: Master of Modular Mechanical Mayhem",
+      "thirdParty": true
+    },
+    {
+      "name": "The Wandering Artist",
+      "thirdParty": true
+    },
+    {
+      "name": "The Way of Ki",
+      "thirdParty": true
+    },
+    {
+      "name": "The Way of the Samurai",
+      "thirdParty": true
+    },
+    {
+      "name": "The Way of the Yakuza",
+      "thirdParty": true
+    },
+    {
+      "name": "Tombs of Golarion",
+      "thirdParty": false
+    },
+    {
+      "name": "Tome of Horrors Complete",
+      "thirdParty": true
+    },
+    {
+      "name": "Tome of Secrets",
+      "thirdParty": true
+    },
+    {
+      "name": "Tower of the Last Baron",
+      "thirdParty": false
+    },
+    {
+      "name": "Treasure of Chimera Cove",
+      "thirdParty": false
+    },
+    {
+      "name": "Tyrant's Grasp Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Ultimate Campaign",
+      "thirdParty": false
+    },
+    {
+      "name": "Ultimate Combat",
+      "thirdParty": false
+    },
+    {
+      "name": "Ultimate Equipment",
+      "thirdParty": false
+    },
+    {
+      "name": "Ultimate Evil",
+      "thirdParty": true
+    },
+    {
+      "name": "Ultimate Intrigue",
+      "thirdParty": false
+    },
+    {
+      "name": "Ultimate Kineticist Compendium",
+      "thirdParty": true
+    },
+    {
+      "name": "Ultimate Magic",
+      "thirdParty": false
+    },
+    {
+      "name": "Ultimate Options: Power of the Ninja",
+      "thirdParty": true
+    },
+    {
+      "name": "Ultimate Wilderness",
+      "thirdParty": false
+    },
+    {
+      "name": "Undead Slayer's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Undead Unleashed",
+      "thirdParty": false
+    },
+    {
+      "name": "Undefeatable: The Collected Feats Sourcebook",
+      "thirdParty": true
+    },
+    {
+      "name": "Unfettered Dreams: Malefex",
+      "thirdParty": true
+    },
+    {
+      "name": "Unorthodox Sutra (Sutra)",
+      "thirdParty": true
+    },
+    {
+      "name": "Varisia, Birthplace of Legends",
+      "thirdParty": false
+    },
+    {
+      "name": "Villain Codex",
+      "thirdParty": false
+    },
+    {
+      "name": "War for the Crown Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "War Soul",
+      "thirdParty": true
+    },
+    {
+      "name": "Wardens of the Reborn Forge",
+      "thirdParty": false
+    },
+    {
+      "name": "Way of the Wicked Book Five — The Devil My Only Master",
+      "thirdParty": true
+    },
+    {
+      "name": "Wayfinder #1",
+      "thirdParty": true
+    },
+    {
+      "name": "Wayfinder #13",
+      "thirdParty": true
+    },
+    {
+      "name": "Wayfinder #2",
+      "thirdParty": true
+    },
+    {
+      "name": "Wayfinder #4",
+      "thirdParty": true
+    },
+    {
+      "name": "We Be Goblins Free!",
+      "thirdParty": false
+    },
+    {
+      "name": "We Be Goblins Too!",
+      "thirdParty": false
+    },
+    {
+      "name": "We Be Goblins!",
+      "thirdParty": false
+    },
+    {
+      "name": "Weapon Master's Handbook",
+      "thirdParty": false
+    },
+    {
+      "name": "Weapon Mastery: Shang Gou",
+      "thirdParty": true
+    },
+    {
+      "name": "Wilderness Origins",
+      "thirdParty": false
+    },
+    {
+      "name": "Wrath of the Righteous Player's Guide",
+      "thirdParty": false
+    },
+    {
+      "name": "Zargoth's Tome of Familiars",
+      "thirdParty": true
+    },
+    {
+      "name": "Zeitgeist Players' Guide",
+      "thirdParty": true
+    }
+  ]
+}
