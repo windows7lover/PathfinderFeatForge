@@ -1252,7 +1252,7 @@
     "aliases": [
       "acid damage"
     ],
-    "category": "magic",
+    "category": "damage_type",
     "shortDef": "Energy type dealing corrosive damage. Not blocked by fire or cold resistance; no common immunity except from certain outsiders.",
     "sourceRefs": [
       {
@@ -1267,7 +1267,7 @@
     "aliases": [
       "cold damage"
     ],
-    "category": "magic",
+    "category": "damage_type",
     "shortDef": "Energy type dealing freezing damage. Cold resistance or immunity negates or reduces it.",
     "sourceRefs": [
       {
@@ -1284,7 +1284,7 @@
       "lightning damage",
       "electric"
     ],
-    "category": "magic",
+    "category": "damage_type",
     "shortDef": "Energy type dealing lightning damage. Electricity resistance or immunity negates or reduces it.",
     "sourceRefs": [
       {
@@ -1299,7 +1299,7 @@
     "aliases": [
       "fire damage"
     ],
-    "category": "magic",
+    "category": "damage_type",
     "shortDef": "Energy type dealing burning damage. Fire resistance or immunity negates or reduces it; vulnerability doubles it.",
     "sourceRefs": [
       {
@@ -1314,7 +1314,7 @@
     "aliases": [
       "sonic damage"
     ],
-    "category": "magic",
+    "category": "damage_type",
     "shortDef": "Energy type dealing damage via sound waves. Deafened creatures are not immune; rare resistance exists on some creatures.",
     "sourceRefs": [
       {
@@ -2162,7 +2162,7 @@
     "id": "bonus_type",
     "term": "Bonus Type",
     "aliases": [],
-    "category": "general",
+    "category": "bonus_type",
     "shortDef": "Bonuses are numerical values that are added to checks and statistical scores. Most bonuses have a type, and as a general rule, bonuses of the same type are not cumulative (do not “stack”)—only the greater bonus granted applies. The important aspect of bonus types is that two bonuses of the same type don’t generally stack. With the exception of dodge bonuses, most circumstance bonuses, and racial bonuses, only the better bonus of a given type works. Bonuses without a type always stack, unless they are from the same source.",
     "sourceRefs": [
       {
@@ -2334,6 +2334,479 @@
       {
         "site": "d20pfsrd",
         "url": "https://www.d20pfsrd.com/classes/#TOC-Multiclassing"
+      }
+    ]
+  },
+  {
+    "id": "dmg_bludgeoning",
+    "term": "Bludgeoning",
+    "aliases": [
+      "B",
+      "blunt"
+    ],
+    "category": "damage_type",
+    "shortDef": "Physical damage from blunt force — maces, hammers, slams, falling, and most improvised weapons. One of the three physical (weapon) damage types. Some weapons deal bludgeoning and can switch to another type. Damage Reduction may specifically be overcome by bludgeoning (DR/bludgeoning), and a few creatures (e.g. skeletons) take extra damage from it.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/combat/"
+      }
+    ]
+  },
+  {
+    "id": "dmg_piercing",
+    "term": "Piercing",
+    "aliases": [
+      "P"
+    ],
+    "category": "damage_type",
+    "shortDef": "Physical damage from puncturing — spears, arrows, bolts, picks, and many natural bites/gores. One of the three physical (weapon) damage types. Some DR is overcome only by piercing (DR/piercing).",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/combat/"
+      }
+    ]
+  },
+  {
+    "id": "dmg_slashing",
+    "term": "Slashing",
+    "aliases": [
+      "S"
+    ],
+    "category": "damage_type",
+    "shortDef": "Physical damage from cutting edges — swords, axes, scythes, and most claws. One of the three physical (weapon) damage types. Some DR is overcome only by slashing (DR/slashing).",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/combat/"
+      }
+    ]
+  },
+  {
+    "id": "dmg_force",
+    "term": "Force",
+    "aliases": [
+      "force damage"
+    ],
+    "category": "damage_type",
+    "shortDef": "Pure magical force (e.g. magic missile, spiritual weapon, telekinesis). Force effects strike incorporeal creatures normally — no miss chance — and deal full damage to them. Force is NOT an energy type, so energy resistance and most elemental immunities do not reduce it.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#Damage_Reduction"
+      }
+    ]
+  },
+  {
+    "id": "dmg_negative_energy",
+    "term": "Negative Energy",
+    "aliases": [
+      "negative energy",
+      "neg energy"
+    ],
+    "category": "damage_type",
+    "shortDef": "The energy of undeath and entropy. Negative energy harms living creatures and heals undead. Channeled negative energy, inflict spells, and many death effects use it; death ward and high positive-energy environments resist it.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#Energy_Resistance"
+      }
+    ]
+  },
+  {
+    "id": "dmg_positive_energy",
+    "term": "Positive Energy",
+    "aliases": [
+      "positive energy",
+      "pos energy"
+    ],
+    "category": "damage_type",
+    "shortDef": "The energy of life. Positive energy heals living creatures and damages (or even destroys) undead. Channeled positive energy and cure spells use it.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#Energy_Resistance"
+      }
+    ]
+  },
+  {
+    "id": "dmg_untyped",
+    "term": "Untyped Damage",
+    "aliases": [
+      "untyped"
+    ],
+    "category": "damage_type",
+    "shortDef": "Damage with no listed type (e.g. many ability-damage effects, bleed, falling in some readings). Energy resistance and most type-specific immunities do not apply, so it is hard to defend against, but it is still reduced by relevant DR only if the source is a weapon/physical.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#Damage_Reduction"
+      }
+    ]
+  },
+  {
+    "id": "dmg_precision",
+    "term": "Precision Damage",
+    "aliases": [
+      "precision"
+    ],
+    "category": "damage_type",
+    "shortDef": "Extra damage that depends on striking a vital spot — sneak attack, the sniper rules, and similar. It is NOT multiplied on a critical hit, and it is negated against any creature with concealment or one immune to precision damage (most oozes, swarms, and many constructs/undead).",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/combat/"
+      }
+    ]
+  },
+  {
+    "id": "atk_magic",
+    "term": "Magic (weapon quality)",
+    "aliases": [
+      "magic weapon",
+      "magic damage"
+    ],
+    "category": "damage_type",
+    "shortDef": "Not a damage type but an attack quality: a weapon with a +1 or greater enhancement bonus counts as magic and overcomes DR/magic. The amulet of mighty fists, monk unarmed strikes at high level, and many natural attacks of powerful creatures also count as magic for this purpose.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#Damage_Reduction"
+      }
+    ]
+  },
+  {
+    "id": "atk_silver",
+    "term": "Silver (Alchemical)",
+    "aliases": [
+      "silver",
+      "alchemical silver"
+    ],
+    "category": "damage_type",
+    "shortDef": "A special material/attack quality. Alchemical silver weapons overcome DR/silver — notably devils and lycanthropes. Silvering a weapon costs extra and imposes a small damage penalty (−1) because the metal is soft.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/equipment/special-materials/"
+      }
+    ]
+  },
+  {
+    "id": "atk_cold_iron",
+    "term": "Cold Iron",
+    "aliases": [
+      "cold iron"
+    ],
+    "category": "damage_type",
+    "shortDef": "Iron mined and forged at low temperature. Cold iron weapons overcome DR/cold iron — most famously demons and many fey. Adding magical enhancements to a cold-iron weapon costs more than normal.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/equipment/special-materials/"
+      }
+    ]
+  },
+  {
+    "id": "atk_adamantine",
+    "term": "Adamantine",
+    "aliases": [
+      "adamantine"
+    ],
+    "category": "damage_type",
+    "shortDef": "An ultrahard metal. Adamantine weapons overcome DR/adamantine and ignore hardness less than 20 (great for sundering objects); adamantine armor grants a small amount of DR. Always masterwork.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/equipment/special-materials/"
+      }
+    ]
+  },
+  {
+    "id": "atk_alignment",
+    "term": "Alignment (Good / Evil / Lawful / Chaotic)",
+    "aliases": [
+      "aligned weapon",
+      "good damage",
+      "evil damage",
+      "lawful",
+      "chaotic"
+    ],
+    "category": "damage_type",
+    "shortDef": "Weapons can gain an alignment component (via align weapon, a holy/unholy/axiomatic/anarchic property, or an outsider's natural attacks) to overcome DR/good, DR/evil, DR/lawful, or DR/chaotic. Some effects also deal alignment-typed damage (e.g. holy smite) only to creatures of the opposite alignment.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#Damage_Reduction"
+      }
+    ]
+  },
+  {
+    "id": "atk_epic",
+    "term": "Epic",
+    "aliases": [
+      "epic damage",
+      "DR/epic"
+    ],
+    "category": "damage_type",
+    "shortDef": "An attack quality from a +6 or greater total enhancement bonus (or specific high-level effects). Such weapons overcome DR/epic, possessed by the most powerful creatures.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/special-abilities/#Damage_Reduction"
+      }
+    ]
+  },
+  {
+    "id": "bonus_armor",
+    "term": "Armor Bonus",
+    "aliases": [
+      "armor bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "Granted by worn armor and effects like mage armor. Applies to normal and flat-footed AC but NOT to touch AC. Multiple armor bonuses do not stack — use the highest. An armor's enhancement bonus adds on top of its base armor bonus.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/combat/#Armor_Class"
+      }
+    ]
+  },
+  {
+    "id": "bonus_shield",
+    "term": "Shield Bonus",
+    "aliases": [
+      "shield bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "Granted by a wielded shield or shield spell. Applies to normal and flat-footed AC but NOT to touch AC, and is lost while the shield is not in use (e.g. both hands occupied). Shield bonuses do not stack with each other.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/combat/#Armor_Class"
+      }
+    ]
+  },
+  {
+    "id": "bonus_natural",
+    "term": "Natural Armor Bonus",
+    "aliases": [
+      "natural armor",
+      "natural armor bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "Tough hide, scales, or bone. Applies to normal and flat-footed AC but NOT to touch AC. Natural armor bonuses don't stack with one another (use the highest), but an enhancement bonus to natural armor (e.g. amulet of natural armor, barkskin) stacks with the creature's base natural armor.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/gamemastering/combat/#Armor_Class"
+      }
+    ]
+  },
+  {
+    "id": "bonus_deflection",
+    "term": "Deflection Bonus",
+    "aliases": [
+      "deflection",
+      "deflection bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "A field of magical force that turns attacks aside (ring of protection, shield of faith). Applies to ALL AC including touch and flat-footed. Deflection bonuses do not stack — use the highest.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_dodge",
+    "term": "Dodge Bonus",
+    "aliases": [
+      "dodge",
+      "dodge bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "From active mobility and awareness (Dodge feat, fighting defensively, haste). The one bonus type that DOES stack with itself. Applies to touch AC, but is LOST whenever you lose your Dexterity bonus to AC (flat-footed, helpless, etc.).",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_enhancement",
+    "term": "Enhancement Bonus",
+    "aliases": [
+      "enhancement",
+      "enhancement bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "Makes existing equipment or an ability better (magic weapon/armor pluses, bull's strength, barkskin). Enhancement bonuses of the same source don't stack, but an item's enhancement stacks with the item's own base value (e.g. +1 plate adds to plate's armor bonus).",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_insight",
+    "term": "Insight Bonus",
+    "aliases": [
+      "insight",
+      "insight bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "From knowing the future or reading the situation (e.g. a moment of prescience). Applies to whatever it names (often AC, attacks, or saves). Doesn't stack with other insight bonuses.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_luck",
+    "term": "Luck Bonus",
+    "aliases": [
+      "luck",
+      "luck bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "Good fortune (e.g. divine favor, a luckstone). Doesn't stack with other luck bonuses.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_sacred",
+    "term": "Sacred Bonus",
+    "aliases": [
+      "sacred",
+      "sacred bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "From the power of good or a good-aligned deity (e.g. prayer for allies). Sacred and profane bonuses don't stack with their own type; sacred and profane DO stack with each other.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_profane",
+    "term": "Profane Bonus",
+    "aliases": [
+      "profane",
+      "profane bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "From the power of evil or an evil-aligned deity (e.g. desecrate, prayer against foes). Doesn't stack with other profane bonuses, but does stack with sacred bonuses.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_morale",
+    "term": "Morale Bonus",
+    "aliases": [
+      "morale",
+      "morale bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "From increased confidence, hope, or rage (e.g. bless, rage, heroism). Doesn't stack with other morale bonuses, and mindless creatures (no Intelligence) can't gain them.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_competence",
+    "term": "Competence Bonus",
+    "aliases": [
+      "competence",
+      "competence bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "Improves the performance of a task through skill (e.g. guidance, a masterwork tool, inspire competence). Doesn't stack with other competence bonuses.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_circumstance",
+    "term": "Circumstance Bonus",
+    "aliases": [
+      "circumstance",
+      "circumstance bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "Arises from specific conditions of the situation (high ground, good light, aid another). Circumstance bonuses from DIFFERENT circumstances stack with each other; identical ones do not.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_resistance",
+    "term": "Resistance Bonus",
+    "aliases": [
+      "resistance bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "Magical protection that applies to saving throws (e.g. resistance, a cloak of resistance). Doesn't stack with other resistance bonuses. (Distinct from energy resistance, which reduces damage.)",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_size",
+    "term": "Size Bonus / Penalty",
+    "aliases": [
+      "size bonus",
+      "size modifier"
+    ],
+    "category": "bonus_type",
+    "shortDef": "Derived from a creature's size category. Affects AC and attack rolls (small/large etc.), CMB/CMD, Fly, and Stealth. Size modifiers from a single source don't stack; a temporary size change replaces the normal size modifier.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
+      }
+    ]
+  },
+  {
+    "id": "bonus_untyped",
+    "term": "Untyped Bonus",
+    "aliases": [
+      "untyped bonus",
+      "unnamed bonus"
+    ],
+    "category": "bonus_type",
+    "shortDef": "A bonus with no listed type (many class features and a few spells grant these). Untyped/unnamed bonuses always stack with everything, including other untyped bonuses, unless a specific rule says otherwise.",
+    "sourceRefs": [
+      {
+        "site": "d20pfsrd",
+        "url": "https://www.d20pfsrd.com/basics-ability-scores/glossary/#Bonus_Types"
       }
     ]
   }
